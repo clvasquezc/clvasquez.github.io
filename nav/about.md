@@ -8,7 +8,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## [Perfil en HackTheBox](https://app.hackthebox.com/profile/924118)
 
-```topojson
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -20,24 +20,24 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
         "coordinates": [
           [
             [
-              -70.78079223632812,
-              -33.553984571770314
+              -71.004638671875,
+              -33.751747875681936
             ],
             [
-              -70.47592163085938,
-              -33.553984571770314
+              -70.3564453125,
+              -33.751747875681936
             ],
             [
-              -70.47592163085938,
-              -33.35806161277886
+              -70.3564453125,
+              -33.27084277265288
             ],
             [
-              -70.78079223632812,
-              -33.35806161277886
+              -71.004638671875,
+              -33.27084277265288
             ],
             [
-              -70.78079223632812,
-              -33.553984571770314
+              -71.004638671875,
+              -33.751747875681936
             ]
           ]
         ]
@@ -45,6 +45,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     }
   ]
 }
+
 ```
 
 ## Mi CV
