@@ -46,4 +46,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ## Mis Certificaciones
-
+- [X] eJPT // E-Learning
+- [] CCNA // CISCO
+- [] OSPC // Offensive Secure
+- [] eWPTv2 // E-Learning
+- [] Linux+ // CompTIA
