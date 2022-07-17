@@ -8,25 +8,37 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## [Perfil en HackTheBox](https://app.hackthebox.com/profile/924118)
 
-```geojson
+```topojson
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
+            [
+              -70.78079223632812,
+              -33.553984571770314
+            ],
+            [
+              -70.47592163085938,
+              -33.553984571770314
+            ],
+            [
+              -70.47592163085938,
+              -33.35806161277886
+            ],
+            [
+              -70.78079223632812,
+              -33.35806161277886
+            ],
+            [
+              -70.78079223632812,
+              -33.553984571770314
+            ]
           ]
         ]
       }
@@ -34,6 +46,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   ]
 }
 ```
+
 ## Mi CV
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 - Manejo del Inglés
@@ -46,3 +59,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 - [] OSPC // Offensive Secure
 - [] eWPTv2 // E-Learning
 - [] Linux+ // CompTIA
+
+### Redes Sociales
