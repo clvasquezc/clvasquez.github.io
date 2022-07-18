@@ -7,7 +7,7 @@ Actualmente estoy en la búsqueda de mi primer trabajo como penetration tester (
 ## Máquinas Comprometidas
 Encuentra un listado de todas las máquinas que he logrado compromenter, podrás acceder a los informes realizados haciendo click en el nombre de cada una.
 
-| Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
+| Nombre de la Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
 | ------------- | -------------      | -------------       | ------------- |
 | [GoodGames](#)| Web                | SQL, XSS,           | TryHackMe     |  
 | Ransom        | Web                | XSS                 | HackTheBox    |
