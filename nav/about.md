@@ -6,10 +6,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Máquinas Comprometidas
 Encuentra un listado de todas las máquinas que he logrado compromenter, podrás acceder a los informes realizados haciendo click en el nombre de cada una.
 
-| Máquina       | Tipo de Pentesting | Técnicas Utilizadas | 
-| ------------- | -------------      | -------------       |
-| [GoodGames](#)| Web                | SQL, XSS,           | 
-| Ransom        | Web                | XSS                 |
+| Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
+| ------------- | -------------      | -------------       | ------------- |
+| [GoodGames](#)| Web                | SQL, XSS,           | TryHackMe     |  
+| Ransom        | Web                | XSS                 | HackTheBox    |
+| ------------- | -------------      | -------------       | ------------- |
+| Total 98      | -------------      | -------------       | ------------- |
 
 ## Perfil en Tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/bountyhacker.png" alt="TryHackMe">
