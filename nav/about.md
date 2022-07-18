@@ -10,8 +10,7 @@ Encuentra un listado de todas las máquinas que he logrado compromenter, podrás
 | ------------- | -------------      | -------------       | ------------- |
 | [GoodGames](#)| Web                | SQL, XSS,           | TryHackMe     |  
 | Ransom        | Web                | XSS                 | HackTheBox    |
-| ------------- | -------------      | -------------       | ------------- |
-| Total 98      | -------------      | -------------       | ------------- |
+| Total 98      |                    |                     |               |
 
 ## Perfil en Tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/bountyhacker.png" alt="TryHackMe">
