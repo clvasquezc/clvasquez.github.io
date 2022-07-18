@@ -3,7 +3,7 @@
 # Contenido
 Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para completar diferentes máquinas, así como también video tutoriales. Si haces click en el botón se desplegará una tabla de contenido con todas las máquinas realizadas en diferentes plataformas:
 
-<details><summary>LISTADO DE MÁQUINAS</summary>
+<details><summary> # LISTADO DE MÁQUINAS </summary>
 <p>
  
 
@@ -17,6 +17,7 @@ Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para 
 </p>
 </details>
 
+---------------------------------------------------------
 
 ## [Hackeando Máquina Ransom](#)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
