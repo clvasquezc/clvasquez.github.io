@@ -12,16 +12,14 @@ Encuentra un listado de todas las máquinas que he logrado compromenter, podrás
 | Ransom        | Web                | XSS                 | HackTheBox    |
 | Total 98      |                    |                     |               |
 
-## Perfil en Tryhackme
-<script src="https://tryhackme.com/badge/417925"></script>
+## [Perfil en Tryhackme](https://tryhackme.com/p/bountyhacker)
+Accede a este link para obtener más informacion de mis hacktividades.
 
 ## [Perfil en HackTheBox](https://app.hackthebox.com/profile/924118)
+Accede a este link para obtener más informacion de mis hacktividades.
 
 ## Mi CV
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-- Manejo del Inglés Avanzado - Oral y Escrito (Certificado)
-- Habilidades Sociales
-- Comunicación Efectiva
+Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Mis Certificaciones
 - [X] eJPT // E-Learning
