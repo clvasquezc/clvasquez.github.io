@@ -4,8 +4,10 @@
 Soy Thomas Emerson Glucklich, nacido en Buenos Aires Argentina y criado en Santiago de Chile. Me dedico a informática y la ciberseguridad.
 Actualmente estoy en la búsqueda de mi primer trabajo como penetration tester (hacker ético).
 
-## Máquinas Comprometidas
-Encuentra un listado de todas las máquinas que he logrado compromenter, podrás acceder a los informes realizados haciendo click en el nombre de cada una.
+## Experiencia
+En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías en plataformas vulnerables, tanto en *HackTheBox* como en *TryHackMe* Encontrarás un listado de todas las máquinas que he logrado compromenter, con las distintas técnicas utilizadas, además podrás acceder a los informes que he redactado haciendo click en el nombre de cada una.
+
+> Nota impirtante: Una máquina es lo que en el mundo del pentesting se le llama a un servidor creado con vulnerabilidades para que los usuarios lo compromentan y exploten.
 
 | Nombre de la Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
 | ------------- | -------------      | -------------       | ------------- |
