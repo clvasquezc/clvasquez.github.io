@@ -3,15 +3,16 @@
 # Contenido
 Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para completar diferentes máquinas, así como también video tutoriales. Si haces click en el botón se desplegará una tabla de contenido con todas las máquinas realizadas en diferentes plataformas:
 
-<details><summary> # LISTADO DE MÁQUINAS </summary>
+<details><summary> LISTADO DE MÁQUINAS </summary>
 <p>
  
+ 
 
-| Nombre de la Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
-| ------------- | -------------      | -------------       | ------------- |
-| [GoodGames](#)| Web                | SQL, XSS,           | TryHackMe     |  
-| Ransom        | Web                | XSS                 | HackTheBox    |
-| Total 98      |                    |                     |               |
+ | Nombre de la Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
+ | ------------- | -------------      | -------------       | ------------- |
+ | [GoodGames](#)| Web                | SQL, XSS,           | TryHackMe     |  
+ | Ransom        | Web                | XSS                 | HackTheBox    |
+ | Total 98      |                    |                     |               |
 
   
 </p>
