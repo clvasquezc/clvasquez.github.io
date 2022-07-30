@@ -20,7 +20,7 @@ Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para ide
 
 ### Redes Sociales
 
-![img](emersontech.github.io/img/linkedin.png)|![img](emersontech.github.io/img/linkedin.png)|![img](emersontech.github.io/img/linkedin.png)|![img](emersontech.github.io/img/linkedin.png)
+![img](/img/linkedin.png)|![img](/img/linkedin.png)|![img](/img/linkedin.png)|![img](/img/linkedin.png)
 
 
 <!--
