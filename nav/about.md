@@ -11,8 +11,10 @@ En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías
 
 | Nombre de la Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
 | ------------- | -------------      | -------------       | ------------- |
-| [GoodGames](#)| Web                | SQL, XSS,           | TryHackMe     |  
-| Ransom        | Web                | XSS                 | HackTheBox    |
+| [GoodGames](#)| Web                | SQL, XSS,           | HackTheBox    |  
+| [Tabby](#)        | Web                | XSS                 | HackTheBox    |
+| [Tabby](#)        | Web                | XSS                 | HackTheBox    |
+| [Tabby](#)        | Web                | XSS                 | HackTheBox    |
 | Total 98      |                    |                     |               |
 
 ## [Perfil en Tryhackme](https://tryhackme.com/p/bountyhacker)
