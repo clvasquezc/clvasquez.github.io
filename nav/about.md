@@ -12,7 +12,7 @@ En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías
 | Nombre de la Máquina       | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
 | ------------- | -------------      | -------------       | ------------- |
 | [GoodGames](#)| Web                | SQL, XSS,           | HackTheBox    |  
-| [Tabby](#)        | Web                | XSS                 | HackTheBox    |
+| [Tabby](emersontech.github.io/posts/maquina-tabby-htb.md)        | Web                | XSS                 | HackTheBox    |
 | [Tabby](#)        | Web                | XSS                 | HackTheBox    |
 | [Tabby](#)        | Web                | XSS                 | HackTheBox    |
 | Total 98      |                    |                     |               |
