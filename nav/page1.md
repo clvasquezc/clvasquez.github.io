@@ -6,7 +6,7 @@ Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para 
 ## [Hackeando Máquina Ransom](#)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
-## [Tutorial Nmap](https://emersontech.github.io/nav/_posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.md)
+## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.md)
 Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para identificar y escanear sistemas en la red. Es una parte importante del diagnóstico de red y la evaluación de sistemas conectados a la red. En este video, aprendereás los conceptos básicos de esta herramienta y cómo se puede usar de manera eficiente para mapear la red interna mediante la identificación de hosts activos y la exploración de puertos, la enumeración de servicios y la detección del sistema operativo.
 
 [Inicio](https://emersontech.github.io)|[Siguiente ->](https://emersontech.github.io/nav/page2.html)
