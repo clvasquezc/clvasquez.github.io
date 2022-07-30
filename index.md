@@ -1,18 +1,19 @@
 [Inicio](https://emersontech.github.io)|[Contenido](https://emersontech.github.io/nav/page1.html)|[Autor](https://emersontech.github.io/nav/about.html)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Bienvenidos
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Esta es mi página web en donde toco temas de ciberseguridad. Aquí encontrarás todo mi trabajo, desde artículos hasta documentación de como he resuelto
+distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo como se resuelven. Además hago revews y doy mis opiniones sobre las certificaciones que he logrado conseguir. Para más información sobre mi, recuerda visitar la sección [Autor](https://emersontech.github.io/nav/about.html).
 
 ---------------------------------------------
 
-## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para identificar y escanear sistemas en la red. Es una parte importante del diagnóstico de red y la evaluación de sistemas conectados a la red. En este video, aprendereás los conceptos básicos de esta herramienta y cómo se puede usar de manera eficiente para mapear la red interna mediante la identificación de hosts activos y la exploración de puertos, la enumeración de servicios y la detección del sistema operativo.
+## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para identificar y escanear sistemas en la red. Es una parte importante del diagnóstico de red y la evaluación de sistemas conectados a la red. En este video, aprendereás los conceptos básicos de esta herramienta y cómo se puede usar de manera eficiente para mapear la red interna mediante la identificación de hosts activos y la exploración de puertos, la enumeración de servicios y la detección del sistema operativo.
+## [Resolviendo la Máquina GoodGames - HTB](https://emersontech.github.io/posts/maquina-goodgames-htb.html)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
-## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para identificar y escanear sistemas en la red. Es una parte importante del diagnóstico de red y la evaluación de sistemas conectados a la red. En este video, aprendereás los conceptos básicos de esta herramienta y cómo se puede usar de manera eficiente para mapear la red interna mediante la identificación de hosts activos y la exploración de puertos, la enumeración de servicios y la detección del sistema operativo.
+## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 ## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
 Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para identificar y escanear sistemas en la red. Es una parte importante del diagnóstico de red y la evaluación de sistemas conectados a la red. En este video, aprendereás los conceptos básicos de esta herramienta y cómo se puede usar de manera eficiente para mapear la red interna mediante la identificación de hosts activos y la exploración de puertos, la enumeración de servicios y la detección del sistema operativo.
