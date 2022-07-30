@@ -1,6 +1,6 @@
 # Resolviendo la Máquina Goodgames de HackTheBox
 
-![goodgames](emersontech.github.io/img/logo.png)
+![GoodGames.png](emersontech.github.io/img/goodgames.png)
 
 # Resumen
 GoodGames es una máquina Easy Linux que muestra la importancia de desinfectar las entradas del usuario en
