@@ -19,6 +19,7 @@ Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para ide
 
 ### Redes Sociales
 
+<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por riajulislam - Flaticon</a>
 
 
 <!--
