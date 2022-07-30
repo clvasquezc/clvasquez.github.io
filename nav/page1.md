@@ -3,7 +3,7 @@
 # Contenido
 Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para completar diferentes máquinas, así como también video tutoriales. Click [aquí](#) para ver la lista de todas las máquinas completadas.
 
-## [Hackeando Máquina Ransom](#)
+## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 ## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
