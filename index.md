@@ -15,8 +15,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
-## [Tutorial Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para identificar y escanear sistemas en la red. Es una parte importante del diagnóstico de red y la evaluación de sistemas conectados a la red. En este video, aprendereás los conceptos básicos de esta herramienta y cómo se puede usar de manera eficiente para mapear la red interna mediante la identificación de hosts activos y la exploración de puertos, la enumeración de servicios y la detección del sistema operativo.
+## [Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
+En este video te enseño las técnicas necesarias para que puedas entender esta poderoza herramienta para escanear puertos y vulnerabilidades en la red. Aprenderás desde lo básico hasta un nivel intermedio, logrando usar sus distintos comandos para escanear rangos de puertos hasta usar su motor de scripts.
 
 ### Redes Sociales
 
