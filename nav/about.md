@@ -35,4 +35,6 @@ Descarga mi curriculum vitae directamente [aquí](#)
 - [ ] Linux+ // CompTIA
 
 ### Redes Sociales
-Encuentrame en las diferentes plataformas:
+
+![img](/img/linkedin.png)|[Linkedin](https://www.linkedin.com/in/emersontech/)|![img](/img/youtube.png)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|![img](/img/github.png)|[Github](https://github.com/emersontech)
+
