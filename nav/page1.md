@@ -3,6 +3,8 @@
 # Contenido
 Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para completar diferentes máquinas, así como también video tutoriales. Click [aquí](#) para ver la lista de todas las máquinas completadas.
 
+## Úiltimas Noticias
+
 ## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
