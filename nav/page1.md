@@ -1,9 +1,9 @@
 [Inicio](https://emersontech.github.io)|[Contenido](https://emersontech.github.io/nav/page1.html)|[Autor](https://emersontech.github.io/nav/about.html)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Contenido
-Encuentra todos mis artículos en esta sección. Encontrarás tanto guías para completar diferentes máquinas, así como también video tutoriales. Click [aquí](#) para ver la lista de todas las máquinas completadas.
+Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas mis guías para completar diferentes máquinas de diferentes plataformas, así como también video tutoriales directamente de mi canal de Youtube. 
 
-## Úiltimas Noticias
+Si haces [Click Aquí](https://emersontech.github.io/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
 
 ## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
