@@ -6,7 +6,7 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 
 ---------------------------------------------
 
-## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.md)
+## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html)
 Aprende a encontrar todo tipo de información relevante que se encuentre escondida con estas técnicas que aparecen en el artículo. Entenderás que tipo de técnicas utilizamos los pentesters hasta aprender las herramientas que uitilizamos para lanzar ataques automáticos.
 
 ## [Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
