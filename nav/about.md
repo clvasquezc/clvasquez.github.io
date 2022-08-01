@@ -16,8 +16,7 @@ En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías
 | [Blue](#)                                                                   | SMB                | Remote Code Execution, CVE Explotation, Windows Vulnerabilities                 | HackTheBox    |
 | [Lame](#)                                                                   | Web                | XSS                 | HackTheBox    |
 | [Jerry](#)                                                                  | Web                | XSS                 | HackTheBox   |
-| Total 4                                                                    |                    |                     |               |
-                                                         |                    |                     |               |
+| Total 5                                                                    |                    |                     |               |
 
 ## [Perfil en Tryhackme](https://tryhackme.com/p/bountyhacker)
 Accede a este link para obtener más informacion de mis hacktividades.
