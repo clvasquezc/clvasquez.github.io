@@ -10,7 +10,7 @@ Esta es la tabla donde llevo la cuenta de todas las máquinas comprometidas, si 
 | [Blue](#)                                                                   | SMB                | Remote Code Execution, CVE Explotation, Windows Vulnerabilities                 | HackTheBox    |
 | [Lame](#)                                                                   | Web                | XSS                 | HackTheBox    |
 | [Jerry](#)                                                                  | Web                | XSS                 | HackTheBox   |
-| Total 98                                                                    |                    |                     |               |
+| Total 4                                                                    |                    |                     |               |
 
 ### Redes Sociales
 
