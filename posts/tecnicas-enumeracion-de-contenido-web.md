@@ -74,3 +74,6 @@ dirb http://<target-ip>/ /usr/share/wordlists/SecLists/Discovery/Web-Content/com
 gobuster dir --url http://<target-ip>/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
 
+### Redes Sociales
+
+![img](/img/linkedin.png)|[Linkedin](https://www.linkedin.com/in/emersontech/)|![img](/img/youtube.png)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|![img](/img/github.png)|[Github](https://github.com/emersontech)
