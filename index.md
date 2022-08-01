@@ -6,8 +6,11 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 
 ---------------------------------------------
 
-## [Encuentra Directorios Ocultos en una Web - Artículo](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.md)
+## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.md)
 Aprende a encontrar todo tipo de información relevante que se encuentre escondida con estas técnicas que aparecen en el artículo. Entenderás que tipo de técnicas utilizamos los pentesters hasta aprender las herramientas que uitilizamos para lanzar ataques automáticos.
+
+## [Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
+En este video te enseño las técnicas necesarias para que puedas entender esta poderoza herramienta para escanear puertos y vulnerabilidades en la red. Aprenderás desde lo básico hasta un nivel intermedio, logrando usar sus distintos comandos para escanear rangos de puertos hasta usar su motor de scripts.
 
 ## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -17,9 +20,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-## [Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-En este video te enseño las técnicas necesarias para que puedas entender esta poderoza herramienta para escanear puertos y vulnerabilidades en la red. Aprenderás desde lo básico hasta un nivel intermedio, logrando usar sus distintos comandos para escanear rangos de puertos hasta usar su motor de scripts.
 
 ### Redes Sociales
 
