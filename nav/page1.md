@@ -5,6 +5,9 @@ Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas m
 
 Si haces [Click Aquí](https://emersontech.github.io/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
 
+## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html)
+Aprende a encontrar todo tipo de información relevante que se encuentre escondida con estas técnicas que aparecen en el artículo. Entenderás que tipo de técnicas utilizamos los pentesters hasta aprender las herramientas que uitilizamos para lanzar ataques automáticos.
+
 ## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
