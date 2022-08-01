@@ -2,7 +2,7 @@
 
 # Resolviendo la Máquina Tabby de HackTheBox
 
-![portada](emersontech/img/tabby/0.png)
+![portada](/img/tabby/0.png)
 
 ## Resumen
 
