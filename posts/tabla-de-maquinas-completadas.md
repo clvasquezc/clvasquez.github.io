@@ -6,7 +6,7 @@ Esta es la tabla donde llevo la cuenta de todas las máquinas comprometidas, si 
 | Nombre de la Máquina                                                        | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
 | -------------                                                               | -------------      | -------------       | ------------- |
 | [GoodGames](https://emersontech.github.io/posts/maquina-goodgames-htb.html) | Web                | SQL, XSS,           | HackTheBox    |  
-| [Tabby](https://emersontech.github.io/posts/maquina-tabby-htb.html)         | Web                | XSS                 | HackTheBox    |
+| [Tabby](https://emersontech.github.io/posts/maquina-tabby-htb.html)         | Web                | Directory Traversal, Password Cracking, LFI, LXD Abuse                 | HackTheBox    |
 | [Blue](#)                                                                   | SMB                | Remote Code Execution, CVE Explotation, Windows Vulnerabilities                 | HackTheBox    |
 | [Lame](#)                                                                   | Web                | XSS                 | HackTheBox    |
 | [Jerry](#)                                                                  | Web                | XSS                 | HackTheBox   |
