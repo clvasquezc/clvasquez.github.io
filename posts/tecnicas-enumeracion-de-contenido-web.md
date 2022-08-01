@@ -56,7 +56,7 @@ El descubrimiento automatizado es el proceso de usar herramientas para descubrir
 *¿Qué son las listas de palabras?*
 Las listas de palabras son solo archivos de texto que contienen una larga lista de palabras de uso común; pueden cubrir muchos casos de uso diferentes. Por ejemplo, una lista de palabras de contraseñas incluiría las contraseñas más utilizadas, mientras que en nuestro caso estamos buscando contenido, por lo que necesitaríamos una lista que contuviera los nombres de archivo y directorio más utilizados. Un excelente recurso para listas de palabras que está preinstalado en THM AttackBox es https://github.com/danielmiessler/SecLists, que Daniel Miessler selecciona.
 
-*Herramientas de automatización*
+*Herramientas de automatización*.
 Aunque hay muchas herramientas diferentes de descubrimiento de contenido disponibles, todas con sus características y fallas, vamos a cubrir tres que están preinstaladas en nuestro cuadro de ataque, *ffuf, dirb y gobuster.*
 
 *Utilizando ffuf*
