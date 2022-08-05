@@ -28,17 +28,18 @@ Accede a este link para obtener más informacion de mis hacktividades.
 Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Herramientas que Domino
-- [Nmap](#)
-- BurpSuite
-- Hydra
-- Metasploit
+- [Nmap](https://github.com/emersontech/emersontech.github.io/blob/gh-pages/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.md)
+- [Dirbuster / Gobuster / Fuff / Wfuzz](https://github.com/emersontech/emersontech.github.io/blob/gh-pages/posts/tecnicas-enumeracion-de-contenido-web.md) 
+- [BurpSuite](#)
+- [Hydra](#)
+- [Metasploit](#)
 
 ## Mis Certificaciones
-- [[X] eJPT // E-Learning]](#) [Más información](#)
-- [ ] CCNA // CISCO
-- [ ] OSPC // Offensive Secure
-- [ ] eWPTv2 // E-Learning
-- [ ] Linux+ // CompTIA
+- [X] eJPT // E-Learning] [Más información.](#)
+- [ ] CCNA // CISCO  [Más información.](#)
+- [ ] OSPC // Offensive Secure [Más información.](#)
+- [ ] eWPTv2 // E-Learning [Más información.](#)
+- [ ] Linux+ // CompTIA [Más información.](#)
 
 ### Redes Sociales
 
