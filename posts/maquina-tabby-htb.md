@@ -36,7 +36,7 @@ Nos dice que el nombre o el servicio se desconoce. Esto puede suceder porque se 
 
 #img
 
-> Nota: Nota: Esto es importante realizarlo, ya que gracias a esto podemos lograr un path traversal exitoso, ya que la URL tendrá un request content valido para lograr el path traversal.
+> Nota: Esto es importante realizarlo, ya que gracias a esto podemos lograr un path traversal exitoso, ya que la URL tendrá un request content valido para lograr el path traversal.
 
 #img
 
