@@ -27,8 +27,14 @@ Accede a este link para obtener más informacion de mis hacktividades.
 ## Mi CV
 Descarga mi curriculum vitae directamente [aquí](#)
 
+## Herramientas que Domino
+- [Nmap](#)
+- BurpSuite
+- Hydra
+- Metasploit
+
 ## Mis Certificaciones
-- [X] eJPT // E-Learning
+- [X] eJPT // E-Learning] [Más información](#)
 - [ ] CCNA // CISCO
 - [ ] OSPC // Offensive Secure
 - [ ] eWPTv2 // E-Learning
