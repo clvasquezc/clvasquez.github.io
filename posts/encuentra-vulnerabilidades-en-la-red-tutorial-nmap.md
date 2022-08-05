@@ -6,6 +6,7 @@ Nmap es la herramienta numero uno utilizada por los hackers, se utiliza para ide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoOAnbVplSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Nmap Cheat Sheed
+Abajo encontrás una hoja de trucos (cheat sheed) sobre algunas técnicas de auditorías y recomendaciones de uso de la herramienta en entornos C.T.F.
 
 ### Escaneo Básico.
 ```bash
@@ -47,22 +48,22 @@ nmap -oA <file-name> <target-ip>
 nmap -n -T5 --open <target-ip>
 ```
 
-### Escaneos Para C.T.F
+### Escaneos Para C.T.F - Primer Escaneo // Básico.
 ```bash
-nmap -p- --open -T5 -v -n <ip-target> -oN <file-name>
+nmap --open -T5 -v -n <ip-target> -oA/oN/oG/oX <file-name>
 ```
 
-### Escaneos Para C.T.F #1
+### Escaneos Para C.T.F - Segundo Escaneo // Escaneo A Todos los Puertos.
 ```bash
 nmap -p- --open -T5 -v -n <ip-target> -oA/oN/oG/oX <file-name>
 ```
 
-### Escaneos Para C.T.F #2
+### Escaneos Para C.T.F - Tercer Escaneo // Escaneo Avanzado Con Más Detalles.
 ```bash
 nmap -p- -sS --min-rate 5000 --open -vvv -n <ip-target> -oA/oN/oG/oX <file-name>
 ```
 
-### Escaneos Para C.T.F #3
+### Escaneos Para C.T.F - Cuarto Escaneo // Explotando Las Versiones De Servicios y Sus Vulnerabilidades
 ```bash
 nmap -sCV -p<port-number,range> -oA/oN/oG/oX <file-name>
 ```
