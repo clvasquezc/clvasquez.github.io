@@ -35,7 +35,7 @@ Descarga mi curriculum vitae directamente [aquí](#)
 - [Metasploit](#)
 
 ## Mis Certificaciones
-- [X] eJPT // E-Learning] [Más información.](#)
+- [X] eJPT // E-Learning [Más información.](#)
 - [ ] CCNA // CISCO  [Más información.](#)
 - [ ] OSPC // Offensive Secure [Más información.](#)
 - [ ] eWPTv2 // E-Learning [Más información.](#)
