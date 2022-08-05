@@ -1,3 +1,5 @@
+[Inicio](https://emersontech.github.io)|[Contenido](https://emersontech.github.io/nav/page1.html)|[Autor](https://emersontech.github.io/nav/about.html)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+
 # Aprende a Encontrar Directorios Ocultos en la Web
 
 ## ¿Qúe es el Descubrimiento de Contenido?
