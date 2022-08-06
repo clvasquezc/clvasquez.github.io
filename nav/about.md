@@ -28,8 +28,8 @@ Accede a este link para obtener más informacion de mis hacktividades.
 Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Herramientas que Domino
-- [Nmap](https://github.com/emersontech/emersontech.github.io/blob/gh-pages/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-- [Dirbuster / Gobuster / Fuff / Wfuzz](https://github.com/emersontech/emersontech.github.io/blob/gh-pages/posts/tecnicas-enumeracion-de-contenido-web.html) 
+- [Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
+- [Dirbuster / Gobuster / Fuff / Wfuzz](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html) 
 - [BurpSuite](#)
 - [Hydra](#)
 - [Metasploit](#)
