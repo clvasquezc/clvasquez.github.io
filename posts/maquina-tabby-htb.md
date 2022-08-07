@@ -75,7 +75,7 @@ Navegando en la seccion “news” logramos ver un mensaje que habla sobre una f
 
 ![img](/img/tabby/Untitled (14).png)
 
-El codigo php nos muestra la seccion file=statement, el cual al modificarlo nos revela una vulnerabilidad LFI (local file inclusion). Como estamos ante un LFI podemos ir navegando por el sistema de archivos del servidor mediante un directory path traversal:
+El codigo php nos muestra la seccion **file=statement**, el cual al modificarlo nos revela una **vulnerabilidad LFI (local file inclusion)**. Como estamos ante un LFI podemos ir navegando por el sistema de archivos del servidor mediante un directory path traversal:
 
 ![img](/img/tabby/Untitled (14).png)
 ![img](/img/tabby/Untitled (15).png)
@@ -84,7 +84,7 @@ Si analizamos el texto en modo "Source View" podemos ver los datos de manera má
 
 ![img](/img/tabby/Untitled (17).png)
 
-Al leer el contenido podemos notar un usuario de nombre “ash” y “root”.
+Al leer el contenido podemos notar un usuario de nombre **“ash” y “root”.**
 
 Si intentamos hacer un **path traversal** con el username de ash o root no damos con exito hacia el directorio, esto pude deberse a que estan protegidos por passwords.
 
@@ -92,7 +92,39 @@ Navegando en el sistema de archivos, no encontramos mucho contenido.
 
 Una busqueda en google nos revela diferentes paths para encontrar los archivos que buscamos para las credenciales y damos con exito hacia credenciales correctas:
 
-![img](/img/tabby/Untitled (16).png)
+![img](/img/tabby/Untitled (18).png)
+
+Al realizar un “source View Page” a la página web podemros notar que el código fuente escondido (comentado) credenciales de acceso de usuario:
+
+![img](/img/tabby/Untitled (19).png)
+![img](/img/tabby/Untitled (20).png)
+
+Nuevamente volvemos al panel de inicio de sesion anterior para introducir las credenciales encontradas, pero nos arroja un codigo de error 403 - acceso denegado. Error 403 Forbidden es un código de estado HTTP que indica que el servidor deniega la acción solicitada, página web o servicio. En otras palabras, el servidor ha podido ser contactado, y ha recibido 
+una petición válida, pero ha denegado el acceso a la acción que se solicita.
+
+![img](/img/tabby/Untitled (21).png)
+![img](/img/tabby/Untitled (22).png)
+![img](/img/tabby/Untitled (23).png)
+
+Como las credenciales que acabamos de introducir SON CORRECTAS pero el servidor no es capaz de conectarnos, realizamos una busqueda externa en google para comprobar vias alternas.
+
+Una busqueda en google nos arroja informacion de bastante utilidad en donde encontramos un foro con el mismo problema y su solucion:
+
+![img](/img/tabby/Untitled (24).png)
+
+[https://www.certilience.fr/2019/03/tomcat-exploit-variant-host-manager/](https://www.certilience.fr/2019/03/tomcat-exploit-variant-host-manager/)
+
+![img](/img/tabby/Untitled (25).png)
+
+El texto anterior, se resume en que debemos modificar la URL de inicio de sesion y con las mismas credenciales deberiamos ganar acceso hacia el panel de tomcat:
+
+![img](/img/tabby/Untitled (26).png)
+![img](/img/tabby/Untitled (27).png)
+
+Llegados hasta este punto, nuestro objetivo en este momento es encontrar alguna forma de introducir archivos para poder introducir una aplicacion (.war) maliciosa y lograr una reverse shell.
+
+Como el mismo portal web no nos deja introducír ningún tipo de archivo externo, mediante la consola podríamos realizarlo. Para ello primero listamos las aplicaciones ya existentes:
+
 
 
 ### Redes Sociales
