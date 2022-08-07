@@ -99,14 +99,15 @@ Al realizar un “source View Page” a la página web podemros notar que el có
 ![img](/img/tabby/Untitled (19).png)
 ![img](/img/tabby/Untitled (20).png)
 
-Nuevamente volvemos al panel de inicio de sesion anterior para introducir las credenciales encontradas, pero nos arroja un codigo de error 403 - acceso denegado. Error 403 Forbidden es un código de estado HTTP que indica que el servidor deniega la acción solicitada, página web o servicio. En otras palabras, el servidor ha podido ser contactado, y ha recibido 
-una petición válida, pero ha denegado el acceso a la acción que se solicita.
+Nuevamente volvemos al panel de inicio de sesion anterior para introducir las credenciales encontradas **(tomcat:$secureP4s5w0rd123!)**, pero nos arroja un codigo de error 403 - acceso denegado. 
+
+Error 403 Forbidden es un código de estado HTTP que indica que el servidor deniega la acción solicitada, página web o servicio. En otras palabras, el servidor ha podido ser contactado, y ha recibido una petición válida, pero ha denegado el acceso a la acción que se solicita.
 
 ![img](/img/tabby/Untitled (21).png)
 ![img](/img/tabby/Untitled (22).png)
 ![img](/img/tabby/Untitled (23).png)
 
-Como las credenciales que acabamos de introducir SON CORRECTAS pero el servidor no es capaz de conectarnos, realizamos una busqueda externa en google para comprobar vias alternas.
+Como las credenciales que acabamos de introducir **SON CORRECTAS** pero el servidor no es capaz de conectarnos, realizamos una busqueda externa en google para comprobar vias alternas.
 
 Una busqueda en google nos arroja informacion de bastante utilidad en donde encontramos un foro con el mismo problema y su solucion:
 
@@ -121,7 +122,7 @@ El texto anterior, se resume en que debemos modificar la URL de inicio de sesion
 ![img](/img/tabby/Untitled (26).png)
 ![img](/img/tabby/Untitled (27).png)
 
-Llegados hasta este punto, nuestro objetivo en este momento es encontrar alguna forma de introducir archivos para poder introducir una aplicacion (.war) maliciosa y lograr una reverse shell.
+Llegados hasta este punto, nuestro objetivo en este momento es encontrar alguna forma de introducir archivos para poder introducir una **aplicación (.war) maliciosa** con el fin de lograr una reverse shell.
 
 Como el mismo portal web no nos deja introducír ningún tipo de archivo externo, mediante la consola podríamos realizarlo. Para ello primero listamos las aplicaciones ya existentes:
 
