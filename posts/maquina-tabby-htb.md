@@ -14,41 +14,41 @@ Comenzamos la fase de reconocimiento lanzando un ping hacia la direccion IP obje
 
 La maquina arroja un time to live = 63 (64) lo que indica que estamos ante una maquina linux. Si realizamos un ping junto con un traceroute verificamos que por medio de un nodo intermediario se nos resta -1 unidad en el TTL haciendo que este sea de 63.
 
-#img
+![img](/img/tabby/Untitled (2).png)
 
 Una vez comprobada la comunicacion contra nuestra victima realizamos una enumeracion con la herramienta de nmap y le pasamos los siguientes parametros:
 
-#img
+![img](/img/tabby/Untitled (3).png)
 
 Continuando con la fase de enumeracion con la herramienta de nmap, lanzamos scripts de reconocimiento para tener mayor profundidad de recopilacion de informacion y los lanzamos directamente hacia los puertos abiertos (80,22,8080):
 
-#img
+![img](/img/tabby/Untitled (4).png)
 
 Lanzamos un whatweb, que es como un wappalyzer, que funciona por consola para poder analizar ante que tecnologias se encuentra corriendo el servidor web:
 
-#img
+![img](/img/tabby/Untitled (5).png)
 
 si analizamos la captura anterior podemos observar un nombre de dominio “megahosting.com” “megahosting.htb” lo cual nos interesa investigar con mayor profundidad. Si realizamos un ping podemos observar que no entablece una conexion:
 
-#img
+![img](/img/tabby/Untitled (6).png)
 
 Nos dice que el nombre o el servicio se desconoce. Esto puede suceder porque se esta aplicando virtual hosting, el cual podemos resolver modificando la direccion /etc/hosts:
 
-#img
+![img](/img/tabby/Untitled (7).png)
 
 > Nota: Esto es importante realizarlo, ya que gracias a esto podemos lograr un path traversal exitoso, ya que la URL tendrá un request content valido para lograr el path traversal.
 
-#img
+![img](/img/tabby/Untitled (8).png)
 
 Esto es ideal realizarlo, ya que no es lo mismo acceder por el dominio que por la direccion ip.
 
 Ya que el puerto  80 se encuentra abierto, esto nos indica que existe la comunicacion HTTP, lo cual, al ingresar en el navegador la direccion ip logramos entrar en la web de **MEGA-HOSTING.**
 
-#img
+![img](/img/tabby/Untitled (9).png)
 
 Nuevamente lanzamos un whatweb directamente especificando el puerto 8080 para comprobar los headers y podemos ver que corre un servidor apache tomcat:
 
-#img
+![img](/img/tabby/Untitled (10).png)
 
 Nuevamente volvemos a la web para comprobar a que lugares dentro de el podemos ir navegando y descubrir vectores de ataques como entradas de usuario, configuraciones o codigo desanitizado.
 
