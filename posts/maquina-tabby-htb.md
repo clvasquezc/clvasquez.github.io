@@ -126,8 +126,114 @@ Llegados hasta este punto, nuestro objetivo en este momento es encontrar alguna 
 
 Como el mismo portal web no nos deja introducír ningún tipo de archivo externo, mediante la consola podríamos realizarlo. Para ello primero listamos las aplicaciones ya existentes:
 
+![img](/img/tabby/Untitled (28).png)
 
+Entonces nuestro objetivo ahora es poder subir nuestra aplicación maliciosa para conseguir una reverse shell, para ello, utilizamos en la cosnola el comando msfvenom y pedimos que nos otorgue una lista de payloads en donde nos intersa conseguir una reverse shell. Ten en cuenta que este comando nos ayuda a listar los payloads ya existentes que podrían servirnos para nuestros ataques:
 
+![img](/img/tabby/Untitled (29).png)
+
+Una vez encontrado nuestro payload de interés, en este caso es java/jsp_shell_reverse_tcp, generamos nuestro archivo .war, selecionando nuestra dirección IP y puerto local de destino:
+
+![img](/img/tabby/Untitled (30).png)
+![img](/img/tabby/Untitled (31).png)
+
+Como no podemos subir los archivos directamente hacia la página web, realizamos una búsqueda externa en google para poder averiguar como introducir achivos externos mediante consola.
+
+![img](/img/tabby/Untitled (32).png)
+
+Nuevamente, si listamos nuestras aplicaciones existentes, podemos notar que nuestra aplicación de nombre **“nuestropayload.war”** malicioso ahora existe dentro de los archivos internos:
+
+![img](/img/tabby/Untitled (33).png)
+
+Si ahora en la URL abrimos nuestro achrivo “revershell” y entablamos comunicación con un netcat, obtendremos una comunicación exitosa:
+
+![img](/img/tabby/Untitled (34).png)
+![img](/img/tabby/Untitled (35).png)
+
+Nuestro siguente paso es hacer un tratamiento de la TTY. Esto es útil a la hora de ganar una reverse shell en cualquier máquina ya que nos ayuda a poder manipular la terminal remota de una manera mucho más eficiente y cómoda. Para ello vamos a utilizar los siguientes comandos:
+
+> Nota: Más información para manipular una TTY [Aqui](https://github.com/emersontech/tratamiento-de-tty/blob/main/tty.md)
+
+### 1) Comprobar que tenemos la conexion establecida. Al lanzar el comando *whoami* debería devolvernos el nombre de la máquina.
+```bash
+whoami
+```
+### 2) Lanzar una bash interactíva (una pseudo consola)
+
+```bash
+script /dev/null -c bash
+```
+
+### 3) Enviar el proceso que se está ejecutando a segundo plano
+
+```bash
+[CTRL + Z]
+```
+
+### 4) Retomar el proceso anteriormente dejado en segundo plano (3)
+
+```bash
+stty raw -echo; fg
+```
+
+### 5) Reiniciar la configuración actual de la terminal (luego de este paso ya deberíamos poder operar la terminal externa de forma más cómoda.)
+
+```bash
+reset xterm
+```
+
+### 6) Exportamos una terminal Xterm
+
+```bash
+export TERM=xterm
+```
+
+### 7) Exportamos una bash
+
+```bash
+export SHELL=bash
+```
+
+### 8) Cambiar la resolución de nuestra bash interactiva. Nota: Para revisar el numero de rows y columns actuales ejecutar -> stty size.
+```bash
+stty rows 51 columns 189
+```
+
+### 9) Reiniciar nuevamente la configuración actual de la terminal.
+```bash
+reset xterm
+```
+
+Una vez dentro de la máquina remota y navegando por el sistema de archivos podemos notar que no tenemos acceso directamente hacia el contenido del usuario ash:
+
+![img](/img/tabby/Untitled (36).png)
+
+Como encontramos un usuario ash y no podemos acceder a él, debaríamos por lo tanto, realizar un **user pivoting**.
+
+Como el servidor web estaba montado en el directorio **/var/www/html**, lo lógico es buscar pistas para poder encontrar alguna forma de cambiarnos hacia el usuario ash.
+
+Realizamos un cambio de directorio y listamos los archivos que se encuentran dentro:
+
+![img](/img/tabby/Untitled (37).png)
+
+Navegando por el directorio files logramos encontrar un archivo .zip el cual tiene una contraseña:
+
+![img](/img/tabby/Untitled (38).png)
+![img](/img/tabby/Untitled (39).png)
+
+Intentamos realizar diferentes combinaciones de contraseñas, tales como:
+
+- $3cureP4s5w0rd123!
+- admin
+- admin123
+- tomcat
+- tabby
+
+Pero ninguna de estas dió con éxito la contraseña correcta, es por ello que usé la herramienta **zip2john**.
+
+Antes de operar la herramienta es necesario poder descargar el fichero hacia nuestra máquina de trabajo y poder operar de forma más comoda. Como el comando **get** no es reconocído por la máquina víctima, empelamos un comando que nos genere un código **base64** para de alguna forma importar los archivos hacia nuestra máquina de ataque.
+
+Para ello empleamos el comando:
 ### Redes Sociales
 
 ![img](/img/linkedin.png)|[Linkedin](https://www.linkedin.com/in/emersontech/)|![img](/img/youtube.png)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|![img](/img/github.png)|[Github](https://github.com/emersontech)
