@@ -62,6 +62,15 @@ Paralelamente al directorio anteriormente encontrado, sabemos que por lo general
 ![img](/img/tabby/Untitled (12).png)
 ![img](/img/tabby/Untitled (13).png)
 
+Intentamos probar diferentes credenciales de inicio de sesión para comprobar credenciales débiles, tales como:
+
+- admin:admin
+- admin:admin123
+- admin:password
+- admin:passwrd
+
+Pero ninguno revelea un inicio de sesión exitoso.
+
 Navegando en la seccion “news” logramos ver un mensaje que habla sobre una fuga de datos, si analizamos la URL (Uniform Resource Locator) podemos notar lo siguiente:
 
 ![img](/img/tabby/Untitled (14).png)
@@ -71,9 +80,9 @@ El codigo php nos muestra la seccion file=statement, el cual al modificarlo nos 
 ![img](/img/tabby/Untitled (14).png)
 ![img](/img/tabby/Untitled (15).png)
 
-> En modo "Source View":
+Si analizamos el texto en modo "Source View" podemos ver los datos de manera más clara:
 
-![img](/img/tabby/Untitled (16).png)
+![img](/img/tabby/Untitled (17).png)
 
 Al leer el contenido podemos notar un usuario de nombre “ash” y “root”.
 
