@@ -55,10 +55,36 @@ Nuevamente volvemos a la web para comprobar a que lugares dentro de el podemos i
 Si nos dirigimos a la misma direccion IP y especificamos el puerto 8080 podemos ver mas contenido de la web de tomcat:
 
 ![img](/img/tabby/Untitled (10).png)
+![img](/img/tabby/Untitled (11).png)
 
 Paralelamente al directorio anteriormente encontrado, sabemos que por lo general existe un directorio de inicio de sesion ubicado en manager/html el cual introducimos en la URL y damos con exito a una entrada de usuario:
 
-![img](/img/tabby/Untitled (11).png)
+![img](/img/tabby/Untitled (12).png)
+![img](/img/tabby/Untitled (13).png)
+
+Navegando en la seccion “news” logramos ver un mensaje que habla sobre una fuga de datos, si analizamos la URL (Uniform Resource Locator) podemos notar lo siguiente:
+
+![img](/img/tabby/Untitled (14).png)
+
+El codigo php nos muestra la seccion file=statement, el cual al modificarlo nos revela una vulnerabilidad LFI (local file inclusion). Como estamos ante un LFI podemos ir navegando por el sistema de archivos del servidor mediante un directory path traversal:
+
+![img](/img/tabby/Untitled (14).png)
+![img](/img/tabby/Untitled (15).png)
+
+> En modo "Source View":
+
+![img](/img/tabby/Untitled (16).png)
+
+Al leer el contenido podemos notar un usuario de nombre “ash” y “root”.
+
+Si intentamos hacer un **path traversal** con el username de ash o root no damos con exito hacia el directorio, esto pude deberse a que estan protegidos por passwords.
+
+Navegando en el sistema de archivos, no encontramos mucho contenido.
+
+Una busqueda en google nos revela diferentes paths para encontrar los archivos que buscamos para las credenciales y damos con exito hacia credenciales correctas:
+
+![img](/img/tabby/Untitled (16).png)
+
 
 ### Redes Sociales
 
