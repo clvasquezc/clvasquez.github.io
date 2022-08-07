@@ -10,7 +10,7 @@ Tabby es una máquina Linux de dificultad fácil. La enumeración del sitio web 
 ### Fase de Reconocimiento
 Comenzamos la fase de reconocimiento lanzando un ping hacia la direccion IP objetivo (10.10.10.190) para comprobar si existe conexion estable por medio de una traza ICMP.
 
-#img
+![img](Untitled (1).png)
 
 La maquina arroja un time to live = 63 (64) lo que indica que estamos ante una maquina linux. Si realizamos un ping junto con un traceroute verificamos que por medio de un nodo intermediario se nos resta -1 unidad en el TTL haciendo que este sea de 63.
 
