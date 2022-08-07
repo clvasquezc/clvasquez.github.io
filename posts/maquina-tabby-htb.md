@@ -16,11 +16,11 @@ La maquina arroja un time to live = 63 (64) lo que indica que estamos ante una m
 
 ![img](/img/tabby/Untitled (1).png)
 
-Una vez comprobada la comunicacion contra nuestra victima realizamos una enumeracion con la herramienta de nmap y le pasamos los siguientes parametros:
+Una vez comprobada la comunicación contra nuestra victima realizamos una enumeración con la herramienta de nmap y le pasamos los siguientes parametros:
 
 ![img](/img/tabby/Untitled (2).png)
 
-Continuando con la fase de enumeracion con la herramienta de nmap, lanzamos scripts de reconocimiento para tener mayor profundidad de recopilacion de informacion y los lanzamos directamente hacia los puertos abiertos (80,22,8080):
+Continuando con la fase de enumeración con la herramienta de nmap, lanzamos scripts de reconocimiento para tener mayor profundidad de recopilacion de informacion y los lanzamos directamente hacia los puertos abiertos (80,22,8080):
 
 ![img](/img/tabby/Untitled (3).png)
 
