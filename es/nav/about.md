@@ -1,11 +1,11 @@
-[Inicio](https://emersontech.github.io)|[Contenido](https://emersontech.github.io/nav/page1.html)|[Autor](https://emersontech.github.io/nav/about.html)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[English](https://emersontech.github.io/en/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Sobre Mi
 Soy Thomas Emerson Glucklich, nacido en Buenos Aires Argentina y criado en Santiago de Chile. Me dedico a informática y la ciberseguridad.
 Actualmente estoy en la búsqueda de mi primer trabajo como penetration tester (hacker ético).
 
 ## Experiencia
-En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías en plataformas vulnerables tanto en *HackTheBox* como en *TryHackMe*. Encontrarás un listado de todas las máquinas que he logrado compromenter, cada una de ellas se encuentra documentada con las distintas técnicas utilizadas, si haces click en cada nombre te llevará directamente haica el artículo. [Click Aqui](https://emersontech.github.io/posts/tabla-de-maquinas-completadas.html) para ver la lista completa de máquinas resueltas.
+En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías en plataformas vulnerables tanto en *HackTheBox* como en *TryHackMe*. Encontrarás un listado de todas las máquinas que he logrado compromenter, cada una de ellas se encuentra documentada con las distintas técnicas utilizadas, si haces click en cada nombre te llevará directamente haica el artículo. [Click Aqui](https://emersontech.github.io/es/posts/tabla-de-maquinas-completadas.html) para ver la lista completa de máquinas resueltas.
 
 > Nota importante: En el mundo del pentesting y la ciberseguridad, una máquina es lo que llamamos a un servidor externo vulnerable, creado para que los usuarios logren comprometerlo utilizando distintas técnicas de auditoría.
 
@@ -28,8 +28,8 @@ Accede a este link para obtener más informacion de mis hacktividades.
 Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Herramientas que Domino
-- [Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
-- [Dirbuster / Gobuster / Fuff / Wfuzz](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html) 
+- [Nmap](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
+- [Dirbuster / Gobuster / Fuff / Wfuzz](https://emersontech.github.io/es/posts/tecnicas-enumeracion-de-contenido-web.html) 
 - [BurpSuite](#)
 - [Hydra](#)
 - [Metasploit](#)

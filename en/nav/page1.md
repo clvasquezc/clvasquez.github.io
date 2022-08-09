@@ -1,9 +1,6 @@
-[Spanish](https://emersontech.github.io)|[Home](https://emersontech.github.io/en/index.html)|[Articles](#)|[Author](https://emersontech.github.io/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[Spanish](https://emersontech.github.io/index.html)|[Home](https://emersontech.github.io)|[Articles](https://emersontech.github.io/nav/page1.html)|[Author](https://emersontech.github.io/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
-# Welcome
-This is my website where I post diferent things about cybersecurity. Here you will find all my work, from articles to documentation on how I have solved different platform machines like HackTheBox and TryHackMe where I detail how they are solved. I also do reviews and give my opinions on the certifications I have managed to achieve. For more information about me, remember to visit the Author section.
-
----------------------------------------------
+# Content
 
 ## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/posts/web-content-enumeration-techniques.html)
 Learn to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
