@@ -1,4 +1,4 @@
-[English](https://emersontech.github.io/en/index.html)[Inicio](https://emersontech.github.io/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[English](https://emersontech.github.io/en/index.html)|[Inicio](https://emersontech.github.io/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Sobre Mi
 Soy Thomas Emerson Glucklich, nacido en Buenos Aires Argentina y criado en Santiago de Chile. Me dedico a informática y la ciberseguridad.
@@ -11,8 +11,8 @@ En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías
 
 | Nombre de la Máquina                                                        | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
 | -------------                                                               | -------------      | -------------       | ------------- |
-| [GoodGames](https://emersontech.github.io/posts/maquina-goodgames-htb.html) | Web                | SQL, XSS,           | HackTheBox    |  
-| [Tabby](https://emersontech.github.io/posts/maquina-tabby-htb.html)         | Web                | Directory Traversal, Password Cracking, LFI, LXD Abuse                 | HackTheBox    |
+| [GoodGames](https://emersontech.github.io/es/posts/maquina-goodgames-htb.html) | Web                | SQL, XSS,           | HackTheBox    |  
+| [Tabby](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)         | Web                | Directory Traversal, Password Cracking, LFI, LXD Abuse                 | HackTheBox    |
 | [Blue](#)                                                                   | SMB                | Remote Code Execution, CVE Explotation, Windows Vulnerabilities                 | HackTheBox    |
 | [Lame](#)                                                                   | Web                | XSS                 | HackTheBox    |
 | [Jerry](#)                                                                  | Web                | XSS                 | HackTheBox   |
