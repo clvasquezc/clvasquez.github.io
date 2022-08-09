@@ -1,4 +1,4 @@
-[English](https://emersontech.github.io/en/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[English](https://emersontech.github.io/en/index.html)[Inicio](https://emersontech.github.io/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Tabla de Máquinas Completadas
 Esta es la tabla donde llevo la cuenta de todas las máquinas comprometidas, si haces click en el nombre de cada una podrás acceder a su contenido completo.

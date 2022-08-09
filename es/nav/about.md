@@ -1,4 +1,4 @@
-[English](https://emersontech.github.io/en/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[English](https://emersontech.github.io/en/index.html)[Inicio](https://emersontech.github.io/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Sobre Mi
 Soy Thomas Emerson Glucklich, nacido en Buenos Aires Argentina y criado en Santiago de Chile. Me dedico a informática y la ciberseguridad.
