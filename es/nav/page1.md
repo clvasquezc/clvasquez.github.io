@@ -3,7 +3,7 @@
 # Contenido
 Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas mis guías para completar diferentes máquinas de diferentes plataformas, así como también video tutoriales directamente de mi canal de Youtube. 
 
-Si haces [Click Aquí](https://emersontech.github.io/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
+Si haces [Click Aquí](https://emersontech.github.io/es/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
 
 ## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html)
 Aprende a encontrar todo tipo de información relevante que se encuentre escondida con estas técnicas que aparecen en el artículo. Entenderás que tipo de técnicas utilizamos los pentesters hasta aprender las herramientas que uitilizamos para lanzar ataques automáticos.
