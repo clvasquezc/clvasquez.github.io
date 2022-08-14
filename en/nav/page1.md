@@ -1,6 +1,9 @@
 [Spanish](https://emersontech.github.io/index.html)|[Home](https://emersontech.github.io/en/index.html)|[Articles](https://emersontech.github.io/nav/page1.html)|[Author](https://emersontech.github.io/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Content
+Find all my articles in this section. Here you can discover all my guides to complete different machines on different platforms, as well as tutorial videos directly from my YouTube channel.
+
+If you click [here](https://emersontech.github.io/en/posts/table-of-completed-machines.html) you will be able to see a complete list of all completed and documented machines.
 
 ## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/posts/web-content-enumeration-techniques.html)
 Learn to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
