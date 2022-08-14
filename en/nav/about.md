@@ -9,14 +9,14 @@ As far as pentesting experience is concerned, I have done different audits on vu
 
 > Important note: In the world of pentesting and cybersecurity, a machine is what we call a vulnerable external server, created so that users can compromise it using different auditing techniques.
 
-| Machine Name                                                        | Pentesting Type | Techniques Used | Platform    | 
-| -------------                                                               | -------------      | -------------       | ------------- |
-| [GoodGames](https://emersontech.github.io/en/posts/maquina-goodgames-htb.html) | Web                | SQL, XSS,           | HackTheBox    |  
-| [Tabby](https://emersontech.github.io/en/posts/maquina-tabby-htb.html)         | Web                | Directory Traversal, Password Cracking, LFI, LXD Abuse                 | HackTheBox    |
-| [Blue](#)                                                                   | SMB                | Remote Code Execution, CVE Explotation, Windows Vulnerabilities                 | HackTheBox    |
-| [Lame](#)                                                                   | Web                | XSS                 | HackTheBox    |
-| [Jerry](#)                                                                  | Web                | XSS                 | HackTheBox   |
-| Total 5                                                                    |                    |                     |               |
+| Machine Name | Type of Pentesting | Techniques Used | Platform |
+| ------------- | ------------- | ------------- | ------------- |
+| [GoodGames](https://emersontech.github.io/en/posts/goodgames-machine-htb.html) | Web | SQL, XSS, | HackTheBox |
+| [Tabby](https://emersontech.github.io/en/posts/tabby-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [Blue](#) | SMB | Remote Code Execution, CVE Exploitation, Windows Vulnerabilities | HackTheBox |
+| [lick](#) | Web | XSS | HackTheBox |
+| [Jerry](#) | Web | XSS | HackTheBox |
+| Tottal 4 | | | |
 
 ## [Tryhackme Profile](https://tryhackme.com/p/bountyhacker)
 Access this link to obtain more information about my hacktivities.
@@ -25,11 +25,11 @@ Access this link to obtain more information about my hacktivities.
 Access this link to obtain more information about my hacktivities.
 
 ## My CV
-Download my resume directly [here](#)
+Download my resume directly [here](https://drive.google.com/file/d/10cqcZuoZo7tYuiOEIObjg84hHrtZKIpq/view)
 
 ## Tools I Master
 - [Nmap](https://emersontech.github.io/en/posts/find-network-vulnerabilities-tutorial-nmap.html)
-- [Dirbuster / Gobuster / Fuff / Wfuzz](https://emersontech.github.io/es/posts/web-content-enumeration-techniques.html)
+- [Dirbuster / Gobuster / Fuff / Wfuzz](https://emersontech.github.io/en/posts/web-content-enumeration-techniques.html)
 - [BurpSuite](#)
 - [Hydra](#)
 - [Metasploit](#)
