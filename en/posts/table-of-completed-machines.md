@@ -5,8 +5,8 @@ This is the table where I keep track of all the compromised machines, if you cli
 
 | Machine Name | Type of Pentesting | Techniques Used | Platform |
 | ------------- | ------------- | ------------- | ------------- |
-| [GoodGames](https://emersontech.github.io/en/posts/maquina-goodgames-htb.html) | Web | SQL, XSS, | HackTheBox |
-| [Tabby](https://emersontech.github.io/en/posts/tabby-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [GoodGames](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html) | Web | SQL, XSS, | HackTheBox |
+| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
 | [Blue](#) | SMB | Remote Code Execution, CVE Exploitation, Windows Vulnerabilities | HackTheBox |
 | [lick](#) | Web | XSS | HackTheBox |
 | [Jerry](#) | Web | XSS | HackTheBox |
