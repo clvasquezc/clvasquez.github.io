@@ -1,6 +1,8 @@
-# Learn to Find Hidden Directories on the Web
+[Spanish](https://emersontech.github.io/index.html)|[Inicio](https://emersontech.github.io)|[Contenido](https://emersontech.github.io/nav/page1.html)|[Autor](https://emersontech.github.io/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
-## What is Content Discovery?
+# Learn How to Find Hidden Directories on the WebSites
+
+## What is the Content Discovery?
 First of all, we must ask ourselves, in the context of web application security, what is content? Content can be many things,
 a file, a video, an image, a backup, a website feature. When we talk about content discovery, we are not referring to the obvious things that we can see on a website; they are the things that are not immediately presented to us and that were not always intended for public access.
 This content could be, for example, pages or portals intended for staff use, previous versions of the website, backup files, configuration files, administration panels, etc.
@@ -73,3 +75,7 @@ dirb http://<target-ip>/ /usr/share/wordlists/SecLists/Discovery/Web-Content/com
 ```bash
 gobuster dir --url http://<target-ip>/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
+
+### Social Media
+
+![img](/img/linkedin.png)|[Linkedin](https://www.linkedin.com/in/emersontech/)|![img](/img/youtube.png)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|![img](/img/github.png)|[Github](https://github.com/emersontech)
