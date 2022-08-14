@@ -1,7 +1,7 @@
 [Spanish](https://emersontech.github.io)|[Home](https://emersontech.github.io/en/index.html)|[Articles](#)|[Author](https://emersontech.github.io/en/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Welcome
-This is my website where I post diferent things about cybersecurity. Here you will find all my work, from articles to documentation on how I have solved different platform machines like HackTheBox and TryHackMe where I detail how they are solved. I also do reviews and give my opinions on the certifications I have managed to achieve. For more information about me, remember to visit the Author section.
+This is my website where I post diferent things about cybersecurity. Here you will find all my work, from articles to documentation on how I have solved different platform machines like HackTheBox and TryHackMe where I detail how they are solved. I also do reviews and give my opinions on the certifications I have managed to achieve. For more information about me, remember to visit the [Author](https://emersontech.github.io/en/nav/about.html) section.
 
 ---------------------------------------------
 
