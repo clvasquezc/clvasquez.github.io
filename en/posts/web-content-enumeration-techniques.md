@@ -38,3 +38,38 @@ Once you have established the framework of a website, either from the favicon ex
 
 ## OSINT - Google Hacking/Dorking
 There are also external resources available that can help you discover information about your target website; these resources are often called OSINT or (Open Source Intelligence) as they are freely available tools that collect information:
+
+Google Hacking / Dorking
+Google hacking / Dorking uses the advanced features of the Google search engine, which allow you to select personalized content. You can, for example, select results from a certain domain name using the site: filter, for example (site:tryhackme.com) and then you can match this to certain search terms, say for example the word admin (site :tryhackme.com admin) this would only return results from the tryhackme.com website that contain the word admin in their content. You can also combine multiple filters. Here is an example of more filters you can use:
+
+| Filter | Example | Description |
+| ------------- | ------------- | ------------- |
+| website | site:linkedin.com | returns results only from the specified website address |
+| inrule | inurl:admin | returns results that have the specified word in the URL |
+| filetype | filetype:pdf | returns results that are a particular file extension |
+| untitled | intitle:admin | returns results that contain the specified word in the title |
+
+## Automated Discovery
+*What is automated discovery?*
+Automated discovery is the process of using tools to discover content instead of doing it manually. This process is automated as it typically contains hundreds, thousands, or even millions of requests to a web server. These requests check to see if a file or directory exists on a website, giving us access to resources we previously didn't know existed. This process is possible through the use of a resource called word lists.
+
+*What are word lists?*
+Word lists are just text files that contain a long list of commonly used words; they can cover many different use cases. For example, a list of password words would include the most used passwords, whereas in our case we are looking for content, so we would need a list containing the most used file and directory names. An excellent resource for word lists that is pre-installed in THM AttackBox is https://github.com/danielmiessler/SecLists, which is curated by Daniel Miessler.
+
+*Automation tools*.
+Although there are many different content discovery tools available, all with their features and flaws, we are going to cover three that are pre-installed on our attack box, *ffuf, dirb, and gobuster.*
+
+*Using ffff*
+```bash
+ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt -u http://<target-ip>/FUZZ
+```
+
+*Using dirb*
+```bash
+dirb http://<target-ip>/ /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
+```
+
+*Using gobuster*
+```bash
+gobuster dir --url http://<target-ip>/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
+```
