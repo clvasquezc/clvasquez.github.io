@@ -5,10 +5,10 @@ This is my website where I post diferent things about cybersecurity. Here you wi
 
 ---------------------------------------------
 
-## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/posts/web-content-enumeration-techniques.html)
-Learn to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
+## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/en/posts/web-content-enumeration-techniques.html)
+Learn how to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
 
-## [Learn How to Use the Nmap Tool](https://emersontech.github.io/posts/find-network-vulnerabilities-tutorial-nmap.html)
+## [Learn How to Use the Nmap Tool](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.md)
 In this video I teach you the necessary techniques so that you can understand this powerful tool to scan ports and network vulnerabilities. You will learn from the basics to an intermediate level, managing to use its different commands to scan port ranges to use its scripting engine.
 
 ## [Solving the Tabby Machine - HTB](https://emersontech.github.io/posts/tabby-machine-htb.html)
