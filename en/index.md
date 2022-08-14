@@ -14,10 +14,10 @@ In this video I teach you the necessary techniques so that you can understand th
 ## [Solving the Tabby Machine - HTB](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html)
 The Tabby machine is a vulnerable machine on the HackTheBox platform which has certain vulnerabilities, including both recycled password flaws and directory traversal vulnerabilities. In this article I show you how I managed to compromise the server and escalate the root user privileges.
 
-## [Solving Blue Machine - HTB](https://emersontech.github.io/posts/blue-machine-htb.html)
+## [Solving the GoodGames Machine - HTB](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-## [Solving the GoodGames Machine - HTB](https://emersontech.github.io/posts/goodgames-machine-htb.html)
+## [Solving Blue Machine - HTB](https://emersontech.github.io/posts/blue-machine-htb.html)
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ### Social Media
