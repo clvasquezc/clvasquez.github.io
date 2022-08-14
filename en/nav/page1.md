@@ -1,4 +1,4 @@
-[Spanish](https://emersontech.github.io/index.html)|[Home](https://emersontech.github.io/en/index.html)|[Articles](https://emersontech.github.io/nav/page1.html)|[Author](https://emersontech.github.io/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[Spanish](https://emersontech.github.io/index.html)|[Home](https://emersontech.github.io/en/index.html)|[Articles](https://emersontech.github.io/en/nav/page1.html)|[Author](https://emersontech.github.io/en/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Content
 Find all my articles in this section. Here you can discover all my guides to complete different machines on different platforms, as well as tutorial videos directly from my YouTube channel.
