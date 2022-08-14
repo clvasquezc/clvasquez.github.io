@@ -11,7 +11,7 @@ Learn how to find all kinds of relevant information that is hidden with these te
 ## [Learn How to Use the Nmap Tool](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.md)
 In this video I teach you the necessary techniques so that you can understand this powerful tool to scan ports and network vulnerabilities. You will learn from the basics to an intermediate level, managing to use its different commands to scan port ranges to use its scripting engine.
 
-## [Solving the Tabby Machine - HTB](https://emersontech.github.io/posts/tabby-machine-htb.html)
+## [Solving the Tabby Machine - HTB](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html)
 The Tabby machine is a vulnerable machine on the HackTheBox platform which has certain vulnerabilities, including both recycled password flaws and directory traversal vulnerabilities. In this article I show you how I managed to compromise the server and escalate the root user privileges.
 
 ## [Solving Blue Machine - HTB](https://emersontech.github.io/posts/blue-machine-htb.html)
