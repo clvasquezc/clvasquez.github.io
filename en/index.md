@@ -1,4 +1,4 @@
-[Spanish](https://emersontech.github.io)|[Home](https://emersontech.github.io/en/index.html)|[Articles](#)|[Author](https://emersontech.github.io/en/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
+[Spanish](https://emersontech.github.io)|[Home](https://emersontech.github.io/en/index.html)|[Articles]()|[Author](https://emersontech.github.io/en/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
 # Welcome
 This is my website where I post diferent things about cybersecurity. Here you will find all my work, from articles to documentation on how I have solved different platform machines like HackTheBox and TryHackMe where I detail how they are solved. I also do reviews and give my opinions on the certifications I have managed to achieve. For more information about me, remember to visit the [Author](https://emersontech.github.io/en/nav/about.html) section.
@@ -8,7 +8,7 @@ This is my website where I post diferent things about cybersecurity. Here you wi
 ## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/en/posts/web-content-enumeration-techniques.html)
 Learn how to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
 
-## [Learn How to Use the Nmap Tool](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.md)
+## [Learn How to Use the Nmap Tool](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
 In this video I teach you the necessary techniques so that you can understand this powerful tool to scan ports and network vulnerabilities. You will learn from the basics to an intermediate level, managing to use its different commands to scan port ranges to use its scripting engine.
 
 ## [Solving the Tabby Machine - HTB](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html)
