@@ -74,3 +74,104 @@ Navigating in the "news" section we can see a message that talks about a data le
 ![img](/img/tabby/Untitled (14).png)
 
 The php code shows us the **file=statement** section, which when modified reveals a **LFI (local file inclusion)** vulnerability. As we are dealing with an LFI, we can navigate through the server's file system through a directory path traversal:
+
+![img](/img/tabby/Untitled (14).png)
+![img](/img/tabby/Untitled (15).png)
+
+If we analyze the text in "Source View" mode we can see the data more clearly:
+
+![img](/img/tabby/Untitled (17).png)
+
+When reading the content we can notice a user named **“ash” and “root”.**
+
+If we try to make a **path traversal** with the username of ash or root we do not successfully reach the directory, this could be because they are protected by passwords.
+
+Browsing the file system, we don't find much content.
+
+A search on google reveals us different paths to find the files we are looking for for the credentials and we successfully lead to the correct credentials:
+
+![img](/img/tabby/Untitled (18).png)
+
+When making a "source View Page" to the web page we can notice that the hidden source code (commented) user access credentials:
+
+![img](/img/tabby/Untitled (19).png)
+![img](/img/tabby/Untitled (20).png)
+
+Again we return to the previous login panel to enter the credentials found **(tomcat:$secureP4s5w0rd123!)**, but it gives us an error code 403 - access denied.
+
+Error 403 Forbidden is an HTTP status code that indicates that the server denies the requested action, web page, or service. In other words, the server could be contacted, and received a valid request, but denied access to the requested action.
+
+![img](/img/tabby/Untitled (21).png)
+![img](/img/tabby/Untitled (22).png)
+![img](/img/tabby/Untitled (23).png)
+
+Since the credentials we just entered **ARE CORRECT** but the server is not able to connect us, we perform an external google search to check alternative ways.
+
+A search in google gives us quite useful information where we find a forum with the same problem and its solution:
+
+![img](/img/tabby/Untitled (24).png)
+
+[https://www.certilience.fr/2019/03/tomcat-exploit-variant-host-manager/](https://www.certilience.fr/2019/03/tomcat-exploit-variant-host-manager /)
+
+![img](/img/tabby/Untitled (25).png)
+
+The previous text is summarized in that we must modify the login URL and with the same credentials we should gain access to the tomcat panel:
+
+![img](/img/tabby/Untitled (26).png)
+![img](/img/tabby/Untitled (27).png)
+
+At this point, our goal at this point is to find some way to introduce files to be able to introduce a **malicious application (.war)** in order to achieve a reverse shell.
+
+As the web portal itself does not allow us to introduce any type of external file, we could do it through the console. To do this, we first list the existing applications:
+
+![img](/img/tabby/Untitled (28).png)
+
+So our objective now is to be able to upload our malicious application to get a reverse shell, for this, we use the msfvenom command in the console and ask it to give us a list of payloads where we are interested in getting a reverse shell. Keep in mind that this command helps us to list the existing payloads that could be used for our attacks:
+
+![img](/img/tabby/Untitled (29).png)
+
+Once our payload of interest is found, in this case it is java/jsp_shell_reverse_tcp, we generate our .war file, selecting our destination IP address and local port:
+
+![img](/img/tabby/Untitled (30).png)
+![img](/img/tabby/Untitled (31).png)
+
+Since we cannot upload the files directly to the website, we perform an external search on google to find out how to enter external files through the console.
+
+![img](/img/tabby/Untitled (32).png)
+
+Again, if we list our existing applications, we can notice that our application with the name **“nuestropayload.war”** malicious now exists within the internal files:
+
+![img](/img/tabby/Untitled (33).png)
+
+If now in the URL we open our "revershell" file and establish communication with a netcat, we will obtain a successful communication:
+
+![img](/img/tabby/Untitled (34).png)
+![img](/img/tabby/Untitled (35).png)
+
+Our next step is to do a TTY treatment. This is useful when it comes to winning a reverse shell on any machine as it helps us to manipulate the remote terminal in a much more efficient and comfortable way. To do this we will use the following commands:
+
+> Note: More information to manipulate a TTY [Here](https://github.com/emersontech/tratamiento-de-tty/blob/main/tty.md)
+
+### 1) Check that we have the connection established. Running the *whoami* command should return the hostname.
+```bash
+whoami
+```
+### 2) Launch an interactive bash (a pseudo console)
+
+```bash
+script /dev/null -c bash
+```
+
+### 3) Send the process that is running to the background
+
+```bash
+[CTRL + Z]
+```
+
+### 4) Resume the process previously left in the background (3)
+
+```bash
+stty raw -echo; fg
+```
+
+### 5) Restart the current configuration of the terminal (after this step we should already
