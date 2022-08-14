@@ -28,7 +28,7 @@ Access this link to obtain more information about my hacktivities.
 Download my resume directly [here](https://drive.google.com/file/d/10cqcZuoZo7tYuiOEIObjg84hHrtZKIpq/view)
 
 ## Tools I Master
-- [Nmap](https://emersontech.github.io/en/posts/find-network-vulnerabilities-tutorial-nmap.html)
+- [Nmap](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
 - [Dirbuster / Gobuster / Fuff / Wfuzz](https://emersontech.github.io/en/posts/web-content-enumeration-techniques.html)
 - [BurpSuite](#)
 - [Hydra](#)
