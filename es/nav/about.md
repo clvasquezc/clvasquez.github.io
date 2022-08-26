@@ -35,11 +35,11 @@ Descarga mi curriculum vitae directamente [aquí](https://drive.google.com/file/
 - [Metasploit](#)
 
 ## Mis Certificaciones
-- [X] eJPT // E-Learning [Más información.](#)
-- [ ] CCNA // CISCO  [Más información.](#)
-- [ ] OSPC // Offensive Secure [Más información.](#)
-- [ ] eWPTv2 // E-Learning [Más información.](#)
-- [ ] Linux+ // CompTIA [Más información.](#)
+- [X] eJPT // e-LearningSecurity Junnior Penetration Tester (Octubre 2022) [Más información.](https://elearnsecurity.com/product/ejpt-certification/)
+- [] eWPT // e-LearningSecurity Web Penetration Tester (Noviembre 2022) [Más información.](https://elearnsecurity.com/product/ewpt-certification/)
+- [] eCPPTv2 // e-LearnSecurity Certified Professional Penetration Tester (2023) [Más información.](https://elearnsecurity.com/product/ecpptv2-certification/)
+- [] eWPTXv2 // eLearnSecurity Web application Penetration Tester eXtreme (2023) [Más información](https://elearnsecurity.com/product/ewptxv2-certification/)
+- [] OSCP // Offensive Security Certified Professional
 
 ### Redes Sociales
 
