@@ -17,7 +17,7 @@ En este video te enseño las técnicas necesarias para que puedas entender esta 
 ## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
 La máquina Tabby es una máquina vulnerable de la plataforma HackTheBox la cual presenta ciertas vulnerabilidades, entre ellas se encuentran tanto fallos de contraseñas reciclados como vulnerabilidades directory traversal. En este artículo te muestro como logre comprometer el servidor y escalar los privilegios de usuario root. 
 
-[Inicio](https://emersontech.github.io)|[Siguiente ->](https://emersontech.github.io/nav/page2.html)
+[Inicio](https://emersontech.github.io)|[Siguiente ->](https://emersontech.github.io/es/nav/page2.html)
 
 ### Redes Sociales
 
