@@ -6,18 +6,17 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 
 ---------------------------------------------
 
-## [Aprende Bash Scripting](https://emersontech.github.io/es/posts/bash-scripting-para-hackers.html)
+## [Video - Aprende Bash Scripting](https://emersontech.github.io/es/posts/bash-scripting-para-hackers.html)
 El uso de una terminal de linux es indispensable dentro del mundo de la tecnología y también en la ciberseguridad. Su uso es un requisito indispensable para poder ser un buen pentester. En mi último video te enseño a usar una terminal desde cero.
 
 ## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html)
 Aprende a encontrar todo tipo de información relevante que se encuentre escondida con estas técnicas que aparecen en el artículo. Entenderás que tipo de técnicas utilizamos los pentesters hasta aprender las herramientas que uitilizamos para lanzar ataques automáticos.
 
-## [Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
+## [Video - Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
 En este video te enseño las técnicas necesarias para que puedas entender esta poderoza herramienta para escanear puertos y vulnerabilidades en la red. Aprenderás desde lo básico hasta un nivel intermedio, logrando usar sus distintos comandos para escanear rangos de puertos hasta usar su motor de scripts.
 
-## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
+## [Guía - Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
 La máquina Tabby es una máquina vulnerable de la plataforma HackTheBox la cual presenta ciertas vulnerabilidades, entre ellas se encuentran tanto fallos de contraseñas reciclados como vulnerabilidades directory traversal. En este artículo te muestro como logre comprometer el servidor y escalar los privilegios de usuario root.
-
 
 ### Redes Sociales
 
