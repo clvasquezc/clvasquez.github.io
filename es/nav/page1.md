@@ -5,7 +5,7 @@ Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas m
 
 Si haces [Click Aquí](https://emersontech.github.io/es/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
 
-## [Aprende Bash Scripting](bash-scriptong-para-hackers.md)
+## [Aprende Bash Scripting](bash-scriptong-para-hackers.html)
 El uso de una terminal de linux es indispensable dentro del mundo de la tecnología y también en la ciberseguridad. Su uso es un requisito indispensable para poder ser un buen pentester. En mi último video te enseño a usar una terminal desde cero.
 
 ## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html)
