@@ -5,6 +5,9 @@ Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas m
 
 Si haces [Click Aquí](https://emersontech.github.io/es/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
 
+## [Aprende Bash Scripting](bash-scriptong-para-hackers.md)
+El uso de una terminal de linux es indispensable dentro del mundo de la tecnología y también en la ciberseguridad. Su uso es un requisito indispensable para poder ser un buen pentester. En mi último video te enseño a usar una terminal desde cero.
+
 ## [Artículo - Encuentra Directorios Ocultos en una Web](https://emersontech.github.io/posts/tecnicas-enumeracion-de-contenido-web.html)
 Aprende a encontrar todo tipo de información relevante que se encuentre escondida con estas técnicas que aparecen en el artículo. Entenderás que tipo de técnicas utilizamos los pentesters hasta aprender las herramientas que uitilizamos para lanzar ataques automáticos.
 
@@ -13,12 +16,6 @@ En este video te enseño las técnicas necesarias para que puedas entender esta 
 
 ## [Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/posts/maquina-tabby-htb.html)
 La máquina Tabby es una máquina vulnerable de la plataforma HackTheBox la cual presenta ciertas vulnerabilidades, entre ellas se encuentran tanto fallos de contraseñas reciclados como vulnerabilidades directory traversal. En este artículo te muestro como logre comprometer el servidor y escalar los privilegios de usuario root. 
-
-## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## [Resolviendo la Máquina GoodGames - HTB](https://emersontech.github.io/posts/maquina-goodgames-htb.html)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 [Inicio](https://emersontech.github.io)|[Siguiente ->](https://emersontech.github.io/nav/page2.html)
 
