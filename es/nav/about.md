@@ -35,10 +35,10 @@ Descarga mi curriculum vitae directamente [aquí](#)
 - [Metasploit](#)
 
 ## Mis Certificaciones
-- [X] [eJPT // e-LearningSecurity Junnior Penetration Tester ( 09 / 2022)](#)|[Página Web.](https://elearnsecurity.com/product/ejpt-certification/)
-- [] eWPT // e-LearningSecurity Web Penetration Tester ( 10 / 2022) [Más información.](https://elearnsecurity.com/product/ewpt-certification/)
-- [] eCPPTv2 // e-LearnSecurity Certified Professional Penetration Tester (2023) [Más información.](https://elearnsecurity.com/product/ecpptv2-certification/)
-- [] eWPTXv2 // eLearnSecurity Web application Penetration Tester eXtreme (2023) [Más información](https://elearnsecurity.com/product/ewptxv2-certification/)
+- [X] eJPT // [e-LearningSecurity](https://elearnsecurity.com/product/ejpt-certification/) Junnior Penetration Tester ( 09 / 2022) [Ver Credencial.](#)
+- [] eWPT // [e-LearningSecurity](https://elearnsecurity.com/product/ewpt-certification/) Web Penetration Tester ( 10 / 2022) [Ver Credencial.](#)
+- [] eCPPTv2 // e-LearnSecurity Certified Professional Penetration Tester (2023)
+- [] eWPTXv2 // eLearnSecurity Web application Penetration Tester eXtreme (2023)
 - [] OSCP // Offensive Security Certified Professional
 
 ### Redes Sociales
