@@ -25,7 +25,7 @@ Accede a este link para obtener más informacion de mis hacktividades.
 Accede a este link para obtener más informacion de mis hacktividades.
 
 ## Mi CV
-Descarga mi curriculum vitae directamente [aquí](https://drive.google.com/file/d/10cqcZuoZo7tYuiOEIObjg84hHrtZKIpq/view?usp=sharing)
+Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Herramientas que Domino
 - [Nmap](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
