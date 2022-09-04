@@ -35,11 +35,11 @@ Descarga mi curriculum vitae directamente [aquí](#)
 - [Metasploit](#)
 
 ## Mis Certificaciones
-- [X] eJPT // [e-LearningSecurity](https://elearnsecurity.com/product/ejpt-certification/) Junnior Penetration Tester ( 09 / 2022) [Ver Credencial.](#)
-- [] eWPT // [e-LearningSecurity](https://elearnsecurity.com/product/ewpt-certification/) Web Penetration Tester ( 10 / 2022) [Ver Credencial.](#)
-- [] eCPPTv2 // [e-LearnSecurity](https://elearnsecurity.com/product/ecpptv2-certification/) Certified Professional Penetration Testerv2 (2023)
-- [] eWPTXv2 // [eLearnSecurity](https://elearnsecurity.com/product/ewptxv2-certification/) Web application Penetration Tester eXtremev2 (2023)
-- [] OSCP // [Offensive-Security](https://www.offensive-security.com/pwk-oscp/) Offensive Security Certified Professional
+- [X] eJPT // [e-LearningSecurity Junnior Penetration Tester](https://elearnsecurity.com/product/ejpt-certification/) ( 09 / 2022) [Ver Credencial.](#)
+- [] eWPT // [e-LearningSecurity Web Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) ( 10 / 2022) [Ver Credencial.](#)
+- [] eCPPTv2 // [e-LearnSecurity Certified Professional Penetration Testerv2](https://elearnsecurity.com/product/ecpptv2-certification/) (2023)
+- [] eWPTXv2 // [eLearnSecurity Web application Penetration Tester eXtremev2](https://elearnsecurity.com/product/ewptxv2-certification/) (2023)
+- [] OSCP // [Offensive-Security Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
 
 ### Redes Sociales
 
