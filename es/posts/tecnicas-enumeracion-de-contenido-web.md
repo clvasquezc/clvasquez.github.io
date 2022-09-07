@@ -65,16 +65,32 @@ Aunque hay muchas herramientas diferentes de descubrimiento de contenido disponi
 ```bash
 ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt -u http://<target-ip>/FUZZ
 ```
+* ffuf = Nombre de la herramienta
+* -w = Especificar ruta de nuestra wordlist, puede ser del archivo SecList o Dirbuster
+* -u = Especificar la URL (Uniform Resource Locator)
 
 *Utilizando dirb*
 ```bash
 dirb http://<target-ip>/ /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
+*dirb = nombre de la herramienta
 
 *Utilizando gobuster*
 ```bash
 gobuster dir --url http://<target-ip>/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
+* gobuster = Nombre de la herramienta
+* dir --url = Especificar la URL
+* -w = Especificar ruta de nuestra wordlist, puede ser del archivo SecList o Dirbuster
+
+*Utilizando Wfuzz (mi recomendación personal)*
+```bash
+wfuzz -c --hc=404 -t200 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt http://<target-ip>/FUZZ
+```
+* wfuzz = Nombre de la herramienta
+* -c = Salida (output) mejor representatíva, el output es más legible
+* --hc=404 = Para ocultar códigos de estado (hide code), en este caso, por ejemplo 404
+* -t 200 = Temporizador de 200 hilos
 
 ### Redes Sociales
 
