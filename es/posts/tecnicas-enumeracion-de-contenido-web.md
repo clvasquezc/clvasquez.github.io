@@ -73,7 +73,7 @@ ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt -u http:/
 ```bash
 dirb http://<target-ip>/ /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
-*dirb = nombre de la herramienta
+* dirb = nombre de la herramienta
 
 *Utilizando gobuster*
 ```bash
