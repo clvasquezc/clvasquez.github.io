@@ -35,8 +35,8 @@ Download my resume directly [here](https://drive.google.com/file/d/10cqcZuoZo7tY
 - [Metasploit](#)
 
 ## My Certifications
-- [X] eJPT // e-LearningSecurity Junnior Penetration Tester (Octubre 2022) [More info.](https://elearnsecurity.com/product/ejpt-certification/)
-- [] eWPT // e-LearningSecurity Web Penetration Tester (Noviembre 2022) [More info.](https://elearnsecurity.com/product/ewpt-certification/)
+- [X] eJPT // [e-LearningSecurity Junnior Penetration Tester](https://elearnsecurity.com/product/ejpt-certification/) (Octubre 2022) [More info.](https://elearnsecurity.com/product/ejpt-certification/)
+- [] eWPT // [e-LearningSecurity Web Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) (Noviembre 2022) [More info.](https://elearnsecurity.com/product/ewpt-certification/)
 - [] eCPPTv2 // e-LearnSecurity Certified Professional Penetration Tester (2023) [More info.](https://elearnsecurity.com/product/ecpptv2-certification/)
 - [] eWPTXv2 // eLearnSecurity Web application Penetration Tester eXtreme (2023) [More info.](https://elearnsecurity.com/product/ewptxv2-certification/)
 - [] OSCP // Offensive Security Certified Professional
