@@ -5,6 +5,9 @@ Find all my articles in this section. Here you can discover all my guides to com
 
 If you [Click Here](https://emersontech.github.io/en/posts/table-of-completed-machines.html) you will be able to see a complete table of all completed and documented machines.
 
+## [Video - Learn Bash Scripting](https://emersontech.github.io/en/posts/bash-scripting-for-hackers.html)
+The use of a Linux terminal is essential in the world of technology and also in cybersecurity. Its use is an essential requirement to be a good pentester. In my last video I teach you how to use a terminal from scratch.
+
 ## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/posts/web-content-enumeration-techniques.html)
 Learn to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
 
