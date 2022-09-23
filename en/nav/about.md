@@ -11,8 +11,8 @@ As far as pentesting experience is concerned, I have done different audits on vu
 
 | Machine Name | Type of Pentesting | Techniques Used | Platform |
 | ------------- | ------------- | ------------- | ------------- |
-| [GoodGames](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html) | Web | SQL, XSS, | HackTheBox |
-| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html) | Web | SQL, XSS, | HackTheBox |
+| [GoodGames](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
 | [Blue](#) | SMB | Remote Code Execution, CVE Exploitation, Windows Vulnerabilities | HackTheBox |
 | [lick](#) | Web | XSS | HackTheBox |
 | [Jerry](#) | Web | XSS | HackTheBox |
