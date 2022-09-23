@@ -65,17 +65,32 @@ Although there are many different content discovery tools available, all with th
 ```bash
 ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt -u http://<target-ip>/FUZZ
 ```
+* ffuf = Name of the tool
+* -w = Specify path of our wordlist, can be from SecList or Dirbuster file
+* -u = Specify the URL (Uniform Resource Locator)
 
 *Using dirb*
 ```bash
 dirb http://<target-ip>/ /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
+* dirb = tool name
 
 *Using gobuster*
 ```bash
 gobuster dir --url http://<target-ip>/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt
 ```
+* gobuster = Name of the tool
+* dir --url = Specify the URL
+* -w = Specify path of our wordlist, can be from SecList or Dirbuster file
 
+*Using Wfuzz (my personal recommendation)*
+```bash
+wfuzz -c --hc=404 -t200 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt http://<target-ip>/FUZZ
+```
+* wfuzz = Name of the tool
+* -c = Output (output) better representative, the output is more readable
+* --hc=404 = To hide status codes (hide code), in this case, for example 404
+* -t 200 = 200 thread timer
 ### Social Media
 
 ![img](/img/linkedin.png)|[Linkedin](https://www.linkedin.com/in/emersontech/)|![img](/img/youtube.png)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|![img](/img/github.png)|[Github](https://github.com/emersontech)
