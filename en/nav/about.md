@@ -35,11 +35,11 @@ Download my resume directly [here](https://drive.google.com/file/d/10cqcZuoZo7tY
 - [Metasploit](#)
 
 ## My Certifications
-- [X] eJPT // [e-LearningSecurity Junnior Penetration Tester](https://elearnsecurity.com/product/ejpt-certification/) (Octubre 2022) [More info.](https://elearnsecurity.com/product/ejpt-certification/)
-- [] eWPT // [e-LearningSecurity Web Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) (Noviembre 2022) [More info.](https://elearnsecurity.com/product/ewpt-certification/)
-- [] eCPPTv2 // [e-LearnSecurity Certified Professional Penetration Tester](https://elearnsecurity.com/product/ecpptv2-certification/) (2023) [More info.](https://elearnsecurity.com/product/ecpptv2-certification/)
-- [] eWPTXv2 // [eLearnSecurity Web application Penetration Tester eXtreme](https://elearnsecurity.com/product/ewptxv2-certification) (2023) [More info.](https://elearnsecurity.com/product/ewptxv2-certification/)
-- [] OSCP // [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
+- [X] eJPT // [e-LearningSecurity Junnior Penetration Tester](https://elearnsecurity.com/product/ejpt-certification/) (Octubre 2022) [View.](#)
+- [] eWPT // [e-LearningSecurity Web Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) (Noviembre 2022) [View.](#)
+- [] eCPPTv2 // [e-LearnSecurity Certified Professional Penetration Tester](https://elearnsecurity.com/product/ecpptv2-certification/) (2023) [View.](#)
+- [] eWPTXv2 // [eLearnSecurity Web application Penetration Tester eXtreme](https://elearnsecurity.com/product/ewptxv2-certification) (2023) [View.](#)
+- [] OSCP // [Offensive Security Certified Professional](#)
 
 
 ### Social Media
