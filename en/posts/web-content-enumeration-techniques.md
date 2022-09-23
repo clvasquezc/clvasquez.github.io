@@ -91,6 +91,7 @@ wfuzz -c --hc=404 -t200 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/c
 * -c = Output (output) better representative, the output is more readable
 * --hc=404 = To hide status codes (hide code), in this case, for example 404
 * -t 200 = 200 thread timer
+
 ### Social Media
 
 ![img](/img/linkedin.png)|[Linkedin](https://www.linkedin.com/in/emersontech/)|![img](/img/youtube.png)|[Youtube](https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ)|![img](/img/github.png)|[Github](https://github.com/emersontech)
