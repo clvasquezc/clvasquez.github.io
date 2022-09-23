@@ -18,14 +18,14 @@ As far as pentesting experience is concerned, I have done different audits on vu
 | [Jerry](#) | Web | XSS | HackTheBox |
 | Tottal 4 | | | |
 
-## [Tryhackme Profile](https://tryhackme.com/p/bountyhacker)
-Access this link to obtain more information about my hacktivities.
+## [TryHackMe Profile](https://tryhackme.com/p/bountyhacker)
+This is a website dedicated to teaching offensive cybersecurity. Access this link to obtain more information about my hacktivities.
 
 ## [HackTheBox Profile](https://app.hackthebox.com/profile/924118)
-Access this link to obtain more information about my hacktivities.
+This is a website where users can practice their pentesting skills. Access this link to obtain more information about my hacktivities.
 
 ## My CV
-Download my resume directly [here](https://drive.google.com/file/d/10cqcZuoZo7tYuiOEIObjg84hHrtZKIpq/view)
+Download my resume directly [here](#)
 
 ## Tools I Master
 - [Nmap](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
