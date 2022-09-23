@@ -25,7 +25,7 @@ This is a website dedicated to teaching offensive cybersecurity. Access this lin
 This is a website where users can practice their pentesting skills. Access this link to obtain more information about my hacktivities.
 
 ## My CV
-Download my resume directly [here](#)
+Download my resume directly [here](https://drive.google.com/file/d/1Z6Q4U1V8G8gSpF8RzVXgnf0CmLqiN_X4/view?usp=sharing)
 
 ## Tools I Master
 - [Nmap](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
