@@ -8,20 +8,16 @@ If you [Click Here](https://emersontech.github.io/en/posts/table-of-completed-ma
 ## [Video - Learn Bash Scripting](https://emersontech.github.io/en/posts/bash-scripting-for-hackers.html)
 The use of a Linux terminal is essential in the world of technology and also in cybersecurity. Its use is an essential requirement to be a good pentester. In my last video I teach you how to use a terminal from scratch.
 
-## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/posts/web-content-enumeration-techniques.html)
-Learn to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques pentesters use until you learn the tools we use to launch automatic attacks.
+## [Article - Find Hidden Directories on a Web](https://emersontech.github.io/en/posts/web-content-enumeration-techniques.html)
+Learn to find all kinds of relevant information that is hidden with these techniques that appear in the article. You will understand what kind of techniques we pentesters use until you learn the tools we use to launch automatic attacks.
 
-## [Learn How to Use the Nmap Tool](https://emersontech.github.io/posts/find-network-vulnerabilities-tutorial-nmap.html)
+## [Video - Learn to Use the Nmap Tool](https://emersontech.github.io/en/posts/find-vulnerabilities-in-the-network-tutorial-nmap.html)
 In this video I teach you the necessary techniques so that you can understand this powerful tool to scan ports and network vulnerabilities. You will learn from the basics to an intermediate level, managing to use its different commands to scan port ranges to use its scripting engine.
 
-## [Solving the Tabby Machine - HTB](https://emersontech.github.io/posts/tabby-machine-htb.html)
+## [Guide - Solving Tabby Machine - HTB](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html)
 The Tabby machine is a vulnerable machine on the HackTheBox platform which has certain vulnerabilities, including both recycled password flaws and directory traversal vulnerabilities. In this article I show you how I managed to compromise the server and escalate the root user privileges.
 
-## [Solving Blue Machine - HTB](https://emersontech.github.io/posts/blue-machine-htb.html)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## [Solving the GoodGames Machine - HTB](https://emersontech.github.io/posts/goodgames-machine-htb.html)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+[Home](https://emersontech.github.io/en/index.html) | [Next Page ->](#)
 
 ### Social Media
 
