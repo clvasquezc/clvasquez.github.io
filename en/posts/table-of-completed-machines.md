@@ -3,14 +3,14 @@
 # Table of Completed Machines
 This is the table where I keep track of all the compromised machines, if you click on the name of each one you can access its full content.
 
- Machine Name | Type of Pentesting | Techniques Used | Platform |
-| ------------- | ------------- | ------------- | ------------- |
-| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html) | Web | SQL, XSS, | HackTheBox |
-| [GoodGames](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
-| [Blue](#) | SMB | Remote Code Execution, CVE Exploitation, Windows Vulnerabilities | HackTheBox |
-| [lick](#) | Web | XSS | HackTheBox |
-| [Jerry](#) | Web | XSS | HackTheBox |
-| Tottal 4 | | | |
+| Machine Name                                                        | Tags | Platform    | 
+| -------------                                                               | -------------      | -------------   
+| [GoodGames](https://emersontech.github.io/es/posts/maquina-goodgames-htb.html) | Web Pentesting, SQL, XSS,           | HackTheBox    |  
+| [Tabby](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)         | Web Pentesting, Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [Basic Pentesting](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html) | Password Cracking (Hydra), Service Enumeration (Nmap) | TryHackMe    |
+| [Lame](#)                                                                   | XSS                 | HackTheBox    |
+| [Jerry](#)                                                                  | XSS                 | HackTheBox   |
+| Total 4                                                                    |                    |                     |
 
 ### Social Media
 
