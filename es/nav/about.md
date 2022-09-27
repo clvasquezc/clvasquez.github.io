@@ -9,14 +9,14 @@ En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías
 
 > Nota importante: En el mundo del pentesting y la ciberseguridad, una máquina es lo que llamamos a un servidor externo vulnerable, creado para que los usuarios logren comprometerlo utilizando distintas técnicas de auditoría.
 
-| Nombre de la Máquina                                                        | Tipo de Pentesting | Técnicas Utilizadas | Plataforma    | 
-| -------------                                                               | -------------      | -------------       | ------------- |
-| [GoodGames](https://emersontech.github.io/es/posts/maquina-goodgames-htb.html) | Web                | SQL, XSS,           | HackTheBox    |  
-| [Tabby](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)         | Web                | Directory Traversal, Password Cracking, LFI, LXD Abuse                 | HackTheBox    |
-| [Blue](#)                                                                   | SMB                | Remote Code Execution, CVE Explotation, Windows Vulnerabilities                 | HackTheBox    |
-| [Lame](#)                                                                   | Web                | XSS                 | HackTheBox    |
-| [Jerry](#)                                                                  | Web                | XSS                 | HackTheBox   |
-| Total 5                                                                    |                    |                     |               |
+| Nombre de la Máquina                                                        | Etiquetas | Plataforma    | 
+| -------------                                                               | -------------      | -------------   
+| [GoodGames](https://emersontech.github.io/posts/maquina-goodgames-htb.html) | Web Pentesting, SQL, XSS,           | HackTheBox    |  
+| [Tabby](https://emersontech.github.io/posts/maquina-tabby-htb.html)         | Web Pentesting Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox    |
+| [Basic Pentesting](#) | Password Cracking (Hydra), Service Enumeration (Nmap) | TryHackMe    |
+| [Lame](#)                                                                   | XSS                 | HackTheBox    |
+| [Jerry](#)                                                                  | XSS                 | HackTheBox   |
+| Total 4                                                                    |                    |                     |
 
 ## [Perfil en Tryhackme](https://tryhackme.com/p/bountyhacker)
 Accede a este link para obtener más informacion de mis hacktividades.
