@@ -5,9 +5,9 @@ Esta es la tabla donde llevo la cuenta de todas las máquinas comprometidas, si 
 
 | Nombre de la Máquina                                                        | Etiquetas | Plataforma    | 
 | -------------                                                               | -------------      | -------------   
-| [GoodGames](https://emersontech.github.io/posts/maquina-goodgames-htb.html) | Web Pentesting, SQL, XSS,           | HackTheBox    |  
-| [Tabby](https://emersontech.github.io/posts/maquina-tabby-htb.html)         | Web Pentesting Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox    |
-| [Basic Pentesting](#) | Password Cracking (Hydra), Service Enumeration (Nmap) | TryHackMe    |
+| [GoodGames](https://emersontech.github.io/es/posts/maquina-goodgames-htb.html) | Web Pentesting, SQL, XSS,           | HackTheBox    |  
+| [Tabby](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)         | Web Pentesting, Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [Basic Pentesting](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html) | Password Cracking (Hydra), Service Enumeration (Nmap) | TryHackMe    |
 | [Lame](#)                                                                   | XSS                 | HackTheBox    |
 | [Jerry](#)                                                                  | XSS                 | HackTheBox   |
 | Total 4                                                                    |                    |                     |
