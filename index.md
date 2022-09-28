@@ -6,6 +6,8 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 
 ---------------------------------------------
 
+## [Guía - Resolviendo la Máquina Basic Pentesting - THM](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html)
+
 ## [Video - Aprende Bash Scripting](https://emersontech.github.io/es/posts/bash-scripting-para-hackers.html)
 El uso de una terminal de linux es indispensable dentro del mundo de la tecnología y también en la ciberseguridad. Su uso es un requisito indispensable para poder ser un buen pentester. En mi último video te enseño a usar una terminal desde cero.
 
