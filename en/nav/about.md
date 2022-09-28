@@ -9,14 +9,14 @@ As far as pentesting experience is concerned, I have done different audits on vu
 
 > Important note: In the world of pentesting and cybersecurity, a machine is what we call a vulnerable external server, created so that users can compromise it using different auditing techniques.
 
-| Machine Name | Type of Pentesting | Techniques Used | Platform |
-| ------------- | ------------- | ------------- | ------------- |
-| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html) | Web | SQL, XSS, | HackTheBox |
-| [GoodGames](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html) | Web | Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
-| [Blue](#) | SMB | Remote Code Execution, CVE Exploitation, Windows Vulnerabilities | HackTheBox |
-| [lick](#) | Web | XSS | HackTheBox |
-| [Jerry](#) | Web | XSS | HackTheBox |
-| Tottal 4 | | | |
+| Machine Name | Tags               | Platform    | 
+| -------------| -------------      | ------------- |
+| [GoodGames](https://emersontech.github.io/es/posts/maquina-goodgames-htb.html) | Web Pentesting, SQL, XSS, Burpsuite, Service Enumeration (Nmap)           | HackTheBox    |  
+| [Tabby](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)         | Web Pentesting, Service Enumeration (Nmap) , Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [Basic Pentesting](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html) | Password Cracking (Hydra), Service Enumeration (Nmap) | TryHackMe    |
+| [Lame](#)                                                                   | XSS                 | HackTheBox    |
+| [Jerry](#)                                                                  | XSS                 | HackTheBox   |
+| Total 4                                                                    |                    |                     |
 
 ## [TryHackMe Profile](https://tryhackme.com/p/bountyhacker)
 This is a website dedicated to teaching offensive cybersecurity. Access this link to obtain more information about my hacktivities.
