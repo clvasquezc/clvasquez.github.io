@@ -5,6 +5,9 @@ Find all my articles in this section. Here you can discover all my guides to com
 
 If you [Click Here](https://emersontech.github.io/en/posts/table-of-completed-machines.html) you will be able to see a complete table of all completed and documented machines.
 
+## [Guide - Solving the Basic Petesting Machine - THM](https://emersontech.github.io/en/posts/solving-basic_pentesting-machine.html)
+The Basic Pentesting machine is a vulnerable machine of the TryHackMe platform which presents weak password vulnerabilities which we can compromise with tools like hydra. In this article I explain how I managed to compromise the server and then do a lateral privilege escalation.
+
 ## [Video - Learn Bash Scripting](https://emersontech.github.io/en/posts/bash-scripting-for-hackers.html)
 The use of a Linux terminal is essential in the world of technology and also in cybersecurity. Its use is an essential requirement to be a good pentester. In my last video I teach you how to use a terminal from scratch.
 
