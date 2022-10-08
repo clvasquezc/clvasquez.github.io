@@ -5,6 +5,9 @@ Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas m
 
 Si haces [Click Aquí](https://emersontech.github.io/es/posts/tabla-de-maquinas-completadas.html) podrás ver una lista completa de todas las máquinas completadas y documentadas.
 
+## [Guía - Resolviendo la Máquina Basic Pentesting - THM](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html)
+La máquina Basic Pentesting es una máquina vulnerable de la plataforma TryHackMe la cual presenta vulnerabilidades de contraseñas débiles las cuales podremos comprometer con herramientas como hydra. En este articulo explico como logre comprometer el servidor y luego hacer una escalada de privilegios lateral.
+
 ## [Video - Aprende Bash Scripting](https://emersontech.github.io/es/posts/bash-scripting-para-hackers.html)
 El uso de una terminal de linux es indispensable dentro del mundo de la tecnología y también en la ciberseguridad. Su uso es un requisito indispensable para poder ser un buen pentester. En mi último video te enseño a usar una terminal desde cero.
 
@@ -13,9 +16,6 @@ Aprende a encontrar todo tipo de información relevante que se encuentre escondi
 
 ## [Video - Aprende a Usar la Herramienta Nmap](https://emersontech.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
 En este video te enseño las técnicas necesarias para que puedas entender esta poderoza herramienta para escanear puertos y vulnerabilidades en la red. Aprenderás desde lo básico hasta un nivel intermedio, logrando usar sus distintos comandos para escanear rangos de puertos hasta usar su motor de scripts.
-
-## [Guía - Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)
-La máquina Tabby es una máquina vulnerable de la plataforma HackTheBox la cual presenta ciertas vulnerabilidades, entre ellas se encuentran tanto fallos de contraseñas reciclados como vulnerabilidades directory traversal. En este artículo te muestro como logre comprometer el servidor y escalar los privilegios de usuario root. 
 
 [Inicio](https://emersontech.github.io)|[Siguiente ->](https://emersontech.github.io/es/nav/page2.html)
 
