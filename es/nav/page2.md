@@ -1,10 +1,7 @@
 [English](https://emersontech.github.io/en/index.html)|[Inicio](https://emersontech.github.io/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
-## [Resolviendo la Máquina Blue - HTB](https://emersontech.github.io/posts/maquina-blue-htb.html)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## [Resolviendo la Máquina GoodGames - HTB](https://emersontech.github.io/posts/maquina-goodgames-htb.html)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+## [Guía - Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)
+La máquina Tabby es una máquina vulnerable de la plataforma HackTheBox la cual presenta ciertas vulnerabilidades, entre ellas se encuentran tanto fallos de contraseñas reciclados como vulnerabilidades directory traversal. En este artículo te muestro como logre comprometer el servidor y escalar los privilegios de usuario root. 
 
 [Inicio](https://emersontech.github.io)|[<- Atras](https://emersontech.github.io/es/nav/page1.html)
 
