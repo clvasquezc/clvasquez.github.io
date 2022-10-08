@@ -5,7 +5,7 @@ This is my website where I post diferent things about cybersecurity. Here you wi
 
 ---------------------------------------------
 
-## [Guide - Solving the Basic Petesting Machine - THM](https://emersontech.github.io/en/posts/basic_petesting-machine-thm.html)
+## [Guide - Solving the Basic Petesting Machine - THM](https://emersontech.github.io/en/posts/solving-basic_pentesting-machine.html)
 The Basic Pentesting machine is a vulnerable machine of the TryHackMe platform which presents weak password vulnerabilities which we can compromise with tools like hydra. In this article I explain how I managed to compromise the server and then do a lateral privilege escalation.
 
 ## [Video - Learn Bash Scripting](https://emersontech.github.io/en/posts/bash-scripting-for-hackers.html)
