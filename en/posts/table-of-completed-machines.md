@@ -6,7 +6,7 @@ This is the table where I keep track of all the compromised machines, if you cli
 | Machine Name                                                        | Tags | Platform    | 
 | -------------                                                               | -------------      | -------------   
 | [GoodGames](https://emersontech.github.io/en/posts/solving-goodgames-machine-htb.html) | Web Pentesting, SQL, XSS, Burpsuite, Service Enumeration (Nmap)           | HackTheBox    |  
-| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.md)         | Web Pentesting, Service Enumeration (Nmap) , Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
+| [Tabby](https://emersontech.github.io/en/posts/solving-tabby-machine-htb.html)         | Web Pentesting, Service Enumeration (Nmap) , Directory Traversal, Password Cracking, LFI, LXD Abuse | HackTheBox |
 | [Basic Pentesting](https://emersontech.github.io/en/posts/solving-basic_pentesting-machine.html) | Password Cracking (Hydra), Service Enumeration (Nmap) | TryHackMe    |
 | [Lame](#)                                                                   | XSS                 | HackTheBox    |
 | [Jerry](#)                                                                  | XSS                 | HackTheBox   |
