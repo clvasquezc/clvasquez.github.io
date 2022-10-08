@@ -7,6 +7,7 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 ---------------------------------------------
 
 ## [Guía - Resolviendo la Máquina Basic Pentesting - THM](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html)
+La máquina Basic Pentesting es una máquina vulnerable de la plataforma TryHackMe la cual presenta vulnerabilidades de contraseñas débiles las cuales podremos comprometer con herramientas como hydra. En este articulo explico como logre comprometer el servidor y luego hacer una escalada de privilegios lateral.
 
 ## [Video - Aprende Bash Scripting](https://emersontech.github.io/es/posts/bash-scripting-para-hackers.html)
 El uso de una terminal de linux es indispensable dentro del mundo de la tecnología y también en la ciberseguridad. Su uso es un requisito indispensable para poder ser un buen pentester. En mi último video te enseño a usar una terminal desde cero.
