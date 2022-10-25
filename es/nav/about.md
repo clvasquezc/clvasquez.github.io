@@ -36,10 +36,10 @@ Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Mis Certificaciones
 - [X] eJPT // [e-LearningSecurity Junnior Penetration Tester](https://emersontech.github.io/es/posts/review-ejpt.html)
-- [] eWPT // [e-LearningSecurity Web Penetration Tester](https://elearnsecurity.com/product/ewpt-certification/) ( 10 / 2022)
-- [] eCPPTv2 // [e-LearnSecurity Certified Professional Penetration Testerv2](https://elearnsecurity.com/product/ecpptv2-certification/) (2023)
-- [] eWPTXv2 // [eLearnSecurity Web application Penetration Tester eXtremev2](https://elearnsecurity.com/product/ewptxv2-certification/) (2023)
-- [] OSCP // [Offensive-Security Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)
+- [] eWPT // e-LearningSecurity Web Penetration Tester ( 10 / 2022)
+- [] eCPPTv2 // e-LearnSecurity Certified Professional Penetration Testerv2 (2023)
+- [] eWPTXv2 // eLearnSecurity Web application Penetration Tester eXtremev2 (2023)
+- [] OSCP // Offensive-Security Offensive Security Certified Professional
 
 ### Redes Sociales
 
