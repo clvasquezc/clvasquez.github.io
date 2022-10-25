@@ -5,8 +5,10 @@
 ![img](/img/ejpt.png)
 
 - ID: 5193550
-- [Cert ULR](https://verified.elearnsecurity.com/certificates/986ba6ac-d220-4ed5-b747-fa8855e42e49)
-- [Verify URL](https://www.elearnsecurity.com/certification/verify?c=986ba6ac-d220-4ed5-b747-fa8855e42e49)
+- [URL de la certificación](https://verified.elearnsecurity.com/certificates/986ba6ac-d220-4ed5-b747-fa8855e42e49)
+- [URL de validación de certificación](https://www.elearnsecurity.com/certification/verify?c=986ba6ac-d220-4ed5-b747-fa8855e42e49)
+
+
 
 ### Redes Sociales
 
