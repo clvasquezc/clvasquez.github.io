@@ -11,7 +11,7 @@
 Por fin he finalizado mi primer examen de ciberseguridad, más concretamente el **eJPT por sus siglas e-Learning Junnior Penetration Tester** por parte de la empresa de [e-Learning Security](https://elearnsecurity.com) y el material de estudio por parte de la empresa de [INE](https://my.ine.com). Dado que existen ciertas politicas legales no daré mucha informaión del examen en si, pero estare comentando todos los tips y recomendaciones para que quienes lean este post estén bien informados antes de enfrentarse al examen.
 
 ## ¿Qué es el eJPT?
-Como ya comenté previamente el eJPT es una certificación de la empresa de eLearning Security y es una de las primeras certificaciones que muchos recomiendan para dar para demostrar que ya hemos avanzado a un nivel más alto en el mundo de la pentesting. Este examen está orientado a evaluar conocimientos prácticos pero sin dejar de lado lo teórico. **El material para preparar el examen nos lo daran de forma gratuita una vez pagada la certificación por parte la web de INE.**
+Como ya comenté previamente el eJPT es una certificación de la empresa de eLearning Security y es una de las primeras certificaciones que muchos recomiendan para dar para demostrar que ya hemos avanzado a un nivel más alto en el mundo de la pentesting. Este examen está orientado a evaluar conocimientos prácticos pero sin dejar de lado lo teórico. **El material para preparar el examen nos lo tendremos de forma gratuita una vez pagada la certificación por parte la web de INE.**
 
 ## Material de Estudio
 Una vez pagada la certificación nos llegará un correo eletrónico para que gestionemos nuestra cuenta, por mi parte tuve que activar una cuenta en **caendra** y posteriormente crearme otra en la web del **INE**.
@@ -51,6 +51,12 @@ Dentro de eLearning Security existen muchas opciones, incluso existe la misma ce
 - Descanzen todo lo que puedan y tomen pausas, a mi me sirvió bastante para hacer que las ideas fluyan mejor.
 - Tomen todas las notas posibles en una libreta, ya que estaremos analizando muchas cosas y podremos dejar atrás algo descubierto previamente.
 - Cuando estudien en el INE tomen notas del curso ya que podrían presentarse conceptos claves dentro del examen.
+
+### Links de interés
+- [INE](https://my.ine.com)
+- [e-Learning Security](https://elearnsecurity.com)
+- [HackTheBox](https://app.hackthebox.com)
+- [tryhackme](https://tryhackme.com)
 
 ### Redes Sociales
 
