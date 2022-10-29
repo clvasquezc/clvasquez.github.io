@@ -25,7 +25,30 @@ Recomiendo dar el curso aun que no sea obligatorio ya que muchas cosas que apare
 Si tuviera que calificar el curso sería con un 9/10.
 
 ## Experiencia Previa Antes del Examen
+Antes de lanzarme al curso de **INE** tuve experiencia aprendiendo de la ruta de aprendizaje de [tryhackme](https://tryhackme.com) (Intoducction to cyber security, pre security, complete beginner, web fundamentals y jr. penetration tester) y realizando algunas máquinas en [HackTheBox](https://app.hackthebox.com) pero de las máquinas hablaremos más al final.
 
+Considero que lo aprendido en **TryHackMe** me sirvió mucho para soltar más la mano y entender como funcionan muchas cosas. ¿Recomiendo usar tryhackme para tener un poco más de experiencia? Considero que sí pero esto es una opinión personal y es algo que me ayudó a entender conceptos clave dentro del examen.
+
+## Como Fue el Examen
+Al momento de comenzar con el examen tendrás que descargarte unos materiales que serán claves al momento de rendirlos. Recomiendo analizarlos muy atentamente antes de comenzar a responder cualquier pregunta.
+
+Cuando comencé el examen me sentí muy motivado  y con pocas preocupaciones ya que tiene una duración de 3 días. Como recomendación no se coman la cabeza ni se pongan nerviosos, yo llegué relajado por qué entendía que duraba lo suficiente como para poder revisar mis apuntes en caso de atascarme en algunas preguntas.
+
+Uno de los errores que comentí fue comenzar el examen un Viernes a la noche. Si presentan algún problema y necesitan contactar a soporte, ellos no van a responder pronto ya que trabajan en días hábiles (Lunes a Viernes). Creo que el mejor momento para comenzar el exámen es un Lunes a la tarde desde las 6pm para tener tiempo de sobra para ir a dormir temprano y descanzar, cosa que es clave para rendir un buen examen ya que ayuda a que las ideas fluyan mejor, pero claramente eso depende de cada uno.
+
+## Comentarios Generales
+¿Recomiendo dar la certificación? Sí, solo si tienes experiencia previa en el hacking haciendo máquinas y aprendiendo lo teórico. 
+¿Qué máquinas recomiendo hacer para enfrentar el examen? Blue (HTB), Basic Pentesting (THM), Nibbles (HTB).
+¿A qué debería ponerle énfasis al momento de estudiar en el INE? Estudien mucho lo que viene siendo **Networking**.
+
+## ¿Qué Certificación Debería Sacar Después? 
+Dentro de eLearning Security existen muchas opciones, incluso existe la misma certificación pero a un nivel más profesional. eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester). En mi caso pienso dar el eWPT (eLearnSecurity Web application Penetration Tester) que está más orientado al pentesting web. Más adelante pienso sacar el eCPPTv2 y luego el eCPTXv2 (eLearnSecurity Certified Penetration Tester eXtreme).
+
+## Conclusiones
+- Vayan tranquilos al examen ya que dura 3 días y traten de comenzar un día Lunes a la tarde.
+- Descanzen todo lo que puedan y tomen pausas, a mi me sirvió bastante para hacer que las ideas fluyan mejor.
+- Tomen todas las notas posibles en una libreta, ya que estaremos analizando muchas cosas y podremos dejar atrás algo descubierto previamente.
+- Cuando estudien en el INE tomen notas del curso ya que podrían presentarse conceptos claves dentro del examen.
 
 ### Redes Sociales
 
