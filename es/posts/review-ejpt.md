@@ -1,6 +1,6 @@
 [English](https://emersontech.github.io/en/index.html)|[Inicio](https://emersontech.github.io/index.html)|[Contenido](https://emersontech.github.io/es/nav/page1.html)|[Autor](https://emersontech.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/emersontech/)
 
-# Mi Experiencia en la Certificación eJPT eLearning Junnior Penetration Tester
+# Mi experiencia en la certificación eJPT eLearning Junnior Penetration Tester
 
 ![img](/img/ejpt.png)
 
