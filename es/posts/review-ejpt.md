@@ -43,7 +43,7 @@ Uno de los errores que comentí fue comenzar el examen un Viernes a la noche. Si
 2. ¿Qué máquinas recomiendo hacer para enfrentar el examen? Blue (HTB), Basic Pentesting (THM), Nibbles (HTB).
 3. ¿A qué debería ponerle énfasis al momento de estudiar en el INE? Estudien mucho lo que viene siendo **Networking**.
 
-## ¿Qué Certificación Debería Sacar Después? 
+## ¿Qué Certificación Se Debería Sacar Después? 
 Dentro de eLearning Security existen muchas opciones, incluso existe la misma certificación pero a un nivel más profesional. eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester). En mi caso pienso dar el eWPT (eLearnSecurity Web application Penetration Tester) que está más orientado al pentesting web. Más adelante pienso sacar el eCPPTv2 y luego el eCPTXv2 (eLearnSecurity Certified Penetration Tester eXtreme).
 
 ## Conclusiones
