@@ -6,7 +6,7 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 
 ---------------------------------------------
 
-## [Video-Guía - Primer Certificación Hacker eJPT de ElearningSecurity](https://emersontech.github.io/es/posts/review-ejpt.html)
+## [Video y Guía - Primer Certificación Hacker eJPT de ElearningSecurity](https://emersontech.github.io/es/posts/review-ejpt.html)
 Hace poco conseguí mi primer certificación de pentesting la cual es el eJPT por parte de ElearningSecurity. En este post encontrarás toda la información sobre la certificación.
 
 ## [Guía - Resolviendo la Máquina Basic Pentesting - THM](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html)
