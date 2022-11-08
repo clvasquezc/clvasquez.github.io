@@ -2,7 +2,7 @@
 
 # Sobre Mi
 Soy Thomas Emerson Glucklich, de Santiago de Chile y soy ingeniero de ciberseguridad ofensiva (pentesting). Dedico mi tiempo a crear contenido sobre hacking.
-Cuento con certificaciones de hacking como **eJPT Junnior Penetration Tester de eLearningSecurity**. Actualmente estoy en la búsqueda de mi primer trabajo como ingeniero de ciberseguridad.
+Cuento con certificaciones de hacking como **eJPT Junnior Penetration Tester de eLearningSecurity**. Actualmente estoy en la búsqueda de mi primer trabajo.
 
 ## Experiencia
 En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías en plataformas vulnerables tanto en *HackTheBox* como en *TryHackMe*. Encontrarás un listado de todas las máquinas que he logrado compromenter, cada una de ellas se encuentra documentada con las distintas técnicas utilizadas, si haces click en cada nombre te llevará directamente haica el artículo. [Click Aqui](https://emersontech.github.io/es/posts/tabla-de-maquinas-completadas.html) para ver la lista completa de máquinas resueltas.
