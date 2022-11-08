@@ -18,7 +18,7 @@ En cuanto experiencia a pentesting respecta, he realizado diferentes auditorías
 | [Jerry](#)                                                                  | XSS                 | HackTheBox   |
 | Total 4                                                                    |                    |                     |
 
-## [Perfil en Tryhackme](https://tryhackme.com/p/bountyhacker)
+## [Perfil en TryHackMe](https://tryhackme.com/p/bountyhacker)
 Accede a este link para obtener más informacion de mis hacktividades.
 
 ## [Perfil en HackTheBox](https://app.hackthebox.com/profile/924118)
@@ -36,7 +36,7 @@ Descarga mi curriculum vitae directamente [aquí](#)
 
 ## Mis Certificaciones
 - [X] eJPT // [e-LearningSecurity Junnior Penetration Tester](https://emersontech.github.io/es/posts/review-ejpt.html)
-- [] eWPT // e-LearningSecurity Web Penetration Tester ( 10 / 2022)
+- [] eWPT // e-LearningSecurity Web Penetration Tester (En progreso)
 - [] eCPPTv2 // e-LearnSecurity Certified Professional Penetration Testerv2 (2023)
 - [] eWPTXv2 // eLearnSecurity Web application Penetration Tester eXtremev2 (2023)
 - [] OSCP // Offensive-Security Offensive Security Certified Professional
