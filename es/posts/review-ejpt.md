@@ -2,11 +2,7 @@
 
 # Mi experiencia en la certificación eJPT eLearning Junnior Penetration Tester
 
-![img](/img/ejpt.png)
-
-- ID: 5193550
-- [URL de la certificación](https://verified.elearnsecurity.com/certificates/986ba6ac-d220-4ed5-b747-fa8855e42e49)
-- [URL de validación de certificación](https://www.elearnsecurity.com/certification/verify?c=986ba6ac-d220-4ed5-b747-fa8855e42e49)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nyaM0xUhebg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Por fin he finalizado mi primer examen de ciberseguridad, más concretamente el **eJPT por sus siglas e-Learning Junnior Penetration Tester** por parte de la empresa de [e-Learning Security](https://elearnsecurity.com) y el material de estudio por parte de la empresa de [INE](https://my.ine.com). Dado que existen ciertas politicas legales no daré mucha informaión del examen en si, pero estare comentando todos los tips y recomendaciones para que quienes lean este post estén bien informados antes de enfrentarse al examen.
 
@@ -51,6 +47,12 @@ Dentro de eLearning Security existen muchas opciones, incluso existe la misma ce
 - Descanzen todo lo que puedan y tomen pausas, a mi me sirvió bastante para hacer que las ideas fluyan mejor.
 - Tomen todas las notas posibles en una libreta, ya que estaremos analizando muchas cosas y podremos dejar atrás algo descubierto previamente.
 - Cuando estudien en el INE tomen notas del curso ya que podrían presentarse conceptos claves dentro del examen.
+
+![img](/img/ejpt.png)
+
+- ID: 5193550
+- [URL de la certificación](https://verified.elearnsecurity.com/certificates/986ba6ac-d220-4ed5-b747-fa8855e42e49)
+- [URL de validación de certificación](https://www.elearnsecurity.com/certification/verify?c=986ba6ac-d220-4ed5-b747-fa8855e42e49)
 
 ### Links de interés
 - [INE](https://my.ine.com)
