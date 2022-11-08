@@ -6,6 +6,9 @@ distintas máquinas de plataformas como HackTheBox y TryHackMe donde detallo com
 
 ---------------------------------------------
 
+## [Video-Guía - Primer Certificación Hacker eJPT de ElearningSecurity](https://emersontech.github.io/es/posts/review-ejpt.html)
+Hace poco conseguí mi primer certificación de pentesting la cual es el eJPT por parte de ElearningSecurity. En este post encontrarás toda la información sobre la certificación.
+
 ## [Guía - Resolviendo la Máquina Basic Pentesting - THM](https://emersontech.github.io/es/posts/maquina-basic_pentesting-thm.html)
 La máquina Basic Pentesting es una máquina vulnerable de la plataforma TryHackMe la cual presenta vulnerabilidades de contraseñas débiles las cuales podremos comprometer con herramientas como hydra. En este articulo explico como logre comprometer el servidor y luego hacer una escalada de privilegios lateral.
 
