@@ -3,7 +3,7 @@
 # Contenido
 Encuentra todos mis artículos en esta sección. Aquí podrás descubrir todas mis guías para completar diferentes máquinas de diferentes plataformas, así como también video tutoriales directamente de mi canal de Youtube. 
 
-## [Video y Guía](https://clvasquezc.github.io/es/posts/encuentra-vulnerabilidades-en-la-red-tutorial-nmap.html)
+## [Video y Guía](https://clvasquezc.github.io/es/posts/mi-primer-articulo.html)
 En este video te enseño las técnicas necesarias para que puedas entender esta poderoza herramienta para escanear puertos y vulnerabilidades en la red. Aprenderás desde lo básico hasta un nivel intermedio, logrando usar sus distintos comandos para escanear rangos de puertos hasta usar su motor de scripts.
 
 [Inicio](https://clvasquezc.github.io)|[Siguiente ->](https://clvasquezc.github.io/es/nav/page2.html)
