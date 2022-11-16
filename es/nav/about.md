@@ -1,7 +1,7 @@
 |[Inicio](https://clvasquezc.github.io/index.html)|[Contenido](https://clvasquezc.github.io/es/nav/page1.html)|[Autor](https://clvasquezc.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/clvasquezc/)
 
 # Sobre Mi
-Soy Claudio Vásquez Campos, vivo en Chile, soy ingeniero en computacion e informatica, magister en ingenieria informatica (e)
+Soy Claudio Vásquez Campos, vivo en Chile, soy Ingeniero en Computacion e Informatica, Magister en ingenieria informatica (e)
 He obtenido certificaciones de distinto productos relacionado al mundo de los datos.
 
 ## Experiencia
