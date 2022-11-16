@@ -1,7 +1,7 @@
 |[Inicio](https://clvasquezc.github.io/index.html)|[Contenido](https://clvasquezc.github.io/es/nav/page1.html)|[Autor](https://clvasquezc.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/clvasquezc/)
 
-## [Guía - Resolviendo la Máquina Tabby - HTB](https://emersontech.github.io/es/posts/maquina-tabby-htb.html)
-La máquina Tabby es una máquina vulnerable de la plataforma HackTheBox la cual presenta ciertas vulnerabilidades, entre ellas se encuentran tanto fallos de contraseñas reciclados como vulnerabilidades directory traversal. En este artículo te muestro como logre comprometer el servidor y escalar los privilegios de usuario root. 
+## [Guía - Re](https://clvasquezc.github.io/es/posts/maquina-tabby-htb.html)
+root. 
 
 [Inicio](https://clvasquezc.github.io)|[<- Atras](https://clvasquezc.github.io/es/nav/page1.html)
 
