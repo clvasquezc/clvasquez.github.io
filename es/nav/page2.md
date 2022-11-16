@@ -1,6 +1,6 @@
 |[Inicio](https://clvasquezc.github.io/index.html)|[Contenido](https://clvasquezc.github.io/es/nav/page1.html)|[Autor](https://clvasquezc.github.io/es/nav/about.html)|[Linkedin](https://www.linkedin.com/in/clvasquezc/)
 
-## [Guía - Re](https://clvasquezc.github.io/es/posts/maquina-tabby-htb.html)
+## [Guía - Re](https://clvasquezc.github.io/es/posts/mi-primer-articulo.html)
 root. 
 
 [Inicio](https://clvasquezc.github.io)|[<- Atras](https://clvasquezc.github.io/es/nav/page1.html)
